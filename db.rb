@@ -8,8 +8,8 @@ DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3:///#{Dir.pwd}/devel.d
 
 class ApplicationNumber < DataMapper::Type  # NB. causes an erroneous deprecation warning in dm v1.0.0
   primitive       String
-  length          12   # XXX - is ignoring this :(
-  auto_validation true # XXX - is ignoring this :(
+  length          16   # XXX - sqlite is ignoring this :(
+  auto_validation true # XXX - sqlite is ignoring this :(
 
   def self.re
     @re ||= Regexp.compile('^((MPS|SP|SC|MIN)/\d{4}/\d+(?:/([A-K]))?)$')
