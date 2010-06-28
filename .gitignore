@@ -1,0 +1,7 @@
+.backup
+.cache
+.db
+reports
+BUGS.txt
+TODO.txt
+*.dat
