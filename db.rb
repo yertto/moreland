@@ -147,7 +147,7 @@ class Report
   property :id          , Serial
   property :date        , Date          #, :key => true
   property :report_type , Discriminator #, :key => true
-  property :title       , String
+  property :title       , Text
   property :date_from   , Date
   property :date_to     , Date
   property :page_count  , Integer
