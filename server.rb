@@ -197,6 +197,7 @@ __END__
 @@ _reports_all
 %a(href='/reports') Report
 
+
 @@ _report_table
 %table
   %tr
@@ -207,8 +208,7 @@ __END__
   - reports.each do |report|
     %tr
       %td= report.date
-      %td
-        %a(href="/reports/#{report.class}")= report.class
+      %td= report.class
       - page_count = report.pages.count
       - error = report.page_count != page_count
       %td
