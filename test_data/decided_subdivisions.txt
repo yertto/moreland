@@ -1,202 +1,234 @@
 Subdivision Certification Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
-Application Number Address                            Description                                    Latest Decision     Decision Date   SOC Issued     SOC Date
-SC/2004/217              1/25 Dorset                  Subdivision of land into three lots            Refused                 3/06/2010
+Application Number Address                          Description                                         Latest Decision     Decision Date   SOC Issued     SOC Date
+SC/2004/217              1/25 Dorset                    Subdivision of land into three lots             Refused                 3/06/2010
                          Road PASCOE VALE
                          VIC 3044
 
-SC/2005/78               54 Livingstone               Subdivision of land into three (3) lots        Refused                 3/06/2010
+SC/2005/17               16 Josephine Street OAK        Subdivision of land into three lots (stage 1)   Refused                 8/06/2010
+                         PARK VIC 3046
+
+SC/2005/78               54 Livingstone                 Subdivision of land into three (3) lots         Refused                 3/06/2010
                          Street COBURG NORTH
                          VIC 3058
 
-SC/2007/12               240 Reynard                  Subdivision of the land into four lots         Statement of           14/05/2010   Statement of     14/05/2010
-                         Street COBURG VIC                                                           Compliance                          Compliance
-                         3058                                                                        Issued                              Issued
+SC/2007/83               19 South                       Subdivision of the land into two (2) lots       Statement of           24/05/2010   Statement of     24/05/2010
+                         Street HADFIELD VIC                                                            Compliance                          Compliance
+                         3046                                                                           Issued                              Issued
 
-SC/2007/83               19 South                     Subdivision of the land into two (2) lots      Statement of           24/05/2010   Statement of     24/05/2010
-                         Street HADFIELD VIC                                                         Compliance                          Compliance
-                         3046                                                                        Issued                              Issued
+SC/2008/106              40 Kennedy                     Subdivision of the land into three lots         Statement of           24/05/2010   Statement of     24/05/2010
+                         Street GLENROY VIC                                                             Compliance                          Compliance
+                         3046                                                                           Issued                              Issued
 
-SC/2008/106              40 Kennedy                   Subdivision of the land into three lots        Statement of           24/05/2010   Statement of     24/05/2010
-                         Street GLENROY VIC                                                          Compliance                          Compliance
-                         3046                                                                        Issued                              Issued
+SC/2008/153              50 Nicholson                   Subdivision of the land into six lots           Statement of           16/06/2010   Statement of     16/06/2010
+                         Street BRUNSWICK                                                               Compliance                          Compliance
+                         EAST VIC 3057                                                                  Issued                              Issued
 
-SC/2008/283              761 Sydney           Subdivision of the land into four lots                 Statement of           31/05/2010   Statement of     31/05/2010
-                         Road COBURG VIC 3058                                                        Compliance                          Compliance
-                                                                                                     Issued                              Issued
+SC/2008/283              761 Sydney           Subdivision of the land into four lots                    Statement of           31/05/2010   Statement of     31/05/2010
+                         Road COBURG VIC 3058                                                           Compliance                          Compliance
+                                                                                                        Issued                              Issued
 
-SC/2008/303              18 Wallace                   Subdivision of the land into two lots -        Certified &            24/05/2010   Certified &      24/05/2010
-                         Street BRUNSWICK             existing buildings                             Statement of                        Statement of
-                         WEST VIC 3055                                                               Compliance                          Compliance
+SC/2008/303              18 Wallace                     Subdivision of the land into two lots -         Certified &            24/05/2010   Certified &      24/05/2010
+                         Street BRUNSWICK               existing buildings                              Statement of                        Statement of
+                         WEST VIC 3055                                                                  Compliance                          Compliance
 
-SC/2008/72               399-401 Albion               Subdivision of the land into twenty lots       Recert with            14/05/2010   Recert with      14/05/2010
-                         Street BRUNSWICK                                                            SOC                                 SOC
-                         WEST VIC 3055
+SC/2008/8                21 Sims Street PASCOE          Realignment of boundaries                       Statement of           10/06/2010   Statement of     10/06/2010
+                         VALE VIC 3044                                                                  Compliance                          Compliance
+                                                                                                        Issued                              Issued
 
-SC/2009/166              104 Middle                   Subdivision of the land into two lots          Certified without      11/05/2010
-                         Street HADFIELD VIC                                                         Statement of
-                         3046                                                                        Compliance
+SC/2009/113              19 Belair                      Subdivision of land into two lots               Statement of           21/06/2010   Statement of     21/06/2010
+                         Avenue GLENROY VIC                                                             Compliance                          Compliance
+                         3046                                                                           Issued                              Issued
 
-SC/2009/17               27 Olive Grove PASCOE        Subdivision of the land into five lots         Statement of           28/05/2010   Statement of     28/05/2010
-                         VALE VIC 3044                                                               Compliance                          Compliance
-                                                                                                     Issued                              Issued
+SC/2009/115              15 Linda Street COBURG         Consolidation of land                           Certified &            16/06/2010   Certified &      16/06/2010
+                         VIC 3058                                                                       Statement of                        Statement of
+                                                                                                        Compliance                          Compliance
 
-SC/2009/172              90 View                      Subdivision of land into two lots              Statement of            3/06/2010   Statement of      3/06/2010
-                         Street GLENROY VIC                                                          Compliance                          Compliance
-                         3046                                                                        Issued                              Issued
+SC/2009/141              5 Perkin Avenue PASCOE Subdivision of the land into four lots                  Certified &            21/06/2010   Certified &      21/06/2010
+                         VALE VIC 3044                                                                  Statement of                        Statement of
+                                                                                                        Compliance                          Compliance
 
-SC/2009/175              6 Lillian Street PASCOE      Subdivision of the land into three lots        Certified without      25/05/2010
-                         VALE VIC 3044                                                               Statement of
-                                                                                                     Compliance
-
-SC/2009/186              Lot S9 Pentridge             Subdivision of the land into3 lots - Stage 9   Certified without       4/06/2010
-                         Boulevard COBURG VIC                                                        Statement of
-                         3058                                                                        Compliance
+SC/2009/168              18 Lock                        Subdivision of the land into three lots         Certified without      21/06/2010
+                         Street FAWKNER VIC                                                             Statement of
+                         3060                                                                           Compliance
 
 
 
-Wednesday, 9 June 2010                                                                                                                                    Page 1 of 4
+
+Wednesday, 23 June 2010                                                                                                                                      Page 1 of 4
 Subdivision Certification Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
-Application Number Address                            Description                               Latest Decision     Decision Date   SOC Issued     SOC Date
-SC/2009/202              893 Pascoe Vale              Subdivision of the land into three lots   Statement of           17/05/2010   Statement of     17/05/2010
-                         Road GLENROY VIC                                                       Compliance                          Compliance
-                         3046                                                                   Issued                              Issued
+Application Number Address                          Description                                        Latest Decision     Decision Date   SOC Issued     SOC Date
+SC/2009/17               27 Olive Grove PASCOE          Subdivision of the land into five lots         Statement of           28/05/2010   Statement of     28/05/2010
+                         VALE VIC 3044                                                                 Compliance                          Compliance
+                                                                                                       Issued                              Issued
 
-SC/2009/230              56 Winifred Street OAK       Subdivision of the land into three lots   Certified &            24/05/2010   Certified &      24/05/2010
-                         PARK VIC 3046                                                          Statement of                        Statement of
-                                                                                                Compliance                          Compliance
+SC/2009/172              90 View                        Subdivision of land into two lots              Statement of            3/06/2010   Statement of      3/06/2010
+                         Street GLENROY VIC                                                            Compliance                          Compliance
+                         3046                                                                          Issued                              Issued
 
-SC/2009/233              203 Sydney                   Subdivision of the land into two lots     Certified &            24/05/2010   Certified &      24/05/2010
-                         Road BRUNSWICK VIC                                                     Statement of                        Statement of
-                         3056                                                                   Compliance                          Compliance
+SC/2009/175              6 Lillian Street PASCOE        Subdivision of the land into three lots        Certified without      25/05/2010
+                         VALE VIC 3044                                                                 Statement of
+                                                                                                       Compliance
 
-SC/2009/245              1/515 Sydney                 Stage 1 - boundary re-alignment           Certified &            19/05/2010   Certified &      19/05/2010
-                         Road BRUNSWICK VIC                                                     Statement of                        Statement of
-                         3056                                                                   Compliance                          Compliance
+SC/2009/186              Lot S9 Pentridge               Subdivision of the land into3 lots - Stage 9   Certified without       4/06/2010
+                         Boulevard COBURG VIC                                                          Statement of
+                         3058                                                                          Compliance
 
-SC/2009/249              9 Margaret Street OAK        Subdivision of the land into five lots    Statement of           17/05/2010   Statement of     17/05/2010
-                         PARK VIC 3046                                                          Compliance                          Compliance
-                                                                                                Issued                              Issued
+SC/2009/195              42 Harold                      Subdivision of the land into four lots         Certified &            16/06/2010   Certified &      16/06/2010
+                         Street GLENROY VIC                                                            Statement of                        Statement of
+                         3046                                                                          Compliance                          Compliance
 
-SC/2009/252              74 Chapman                   Subdivision of the land into four lots    Statement of           27/05/2010   Statement of     27/05/2010
-                         Avenue GLENROY VIC                                                     Compliance                          Compliance
-                         3046                                                                   Issued                              Issued
+SC/2009/204              34 Moreland                    Subdivision of the land into two lots          Withdrawn               9/06/2010
+                         Road BRUNSWICK
+                         EAST VIC 3057
 
-SC/2009/256              10 Churchill                 Subdivision of the land into two lots     Statement of           24/05/2010   Statement of     24/05/2010
-                         Street GLENROY VIC                                                     Compliance                          Compliance
-                         3046                                                                   Issued                              Issued
+SC/2009/206              8 Plymouth                     Subdivision of the land into six lots          Certified without      16/06/2010
+                         Avenue PASCOE VALE                                                            Statement of
+                         VIC 3044                                                                      Compliance
 
-SC/2009/257              98 North                     Subdivision of the land into two lots -   Certified without       4/06/2010
-                         Street HADFIELD VIC          existing buildings                        Statement of
-                         3046                                                                   Compliance
+SC/2009/217              24 Watt Avenue OAK             Subdivision of the land into two lots          Certified without      10/06/2010
+                         PARK VIC 3046                                                                 Statement of
+                                                                                                       Compliance
 
-SC/2009/267              10 Damian                    Subdivision of the land into two lots     Certified without       4/06/2010
-                         Court GLENROY VIC                                                      Statement of
-                         3046                                                                   Compliance
+SC/2009/230              56 Winifred Street OAK         Subdivision of the land into three lots        Certified &            24/05/2010   Certified &      24/05/2010
+                         PARK VIC 3046                                                                 Statement of                        Statement of
+                                                                                                       Compliance                          Compliance
 
-SC/2009/4                17 Joffre Road PASCOE        Subdivision of the land into three lots   Recert with            18/05/2010   Statement of      9/09/2009
-                         VALE VIC 3044                                                          SOC                                 Compliance
-                                                                                                                                    Issued
+SC/2009/233              203 Sydney                     Subdivision of the land into two lots          Certified &            24/05/2010   Certified &      24/05/2010
+                         Road BRUNSWICK VIC                                                            Statement of                        Statement of
+                         3056                                                                          Compliance                          Compliance
 
-SC/2009/4                17 Joffre Road PASCOE        Subdivision of the land into three lots   Recert with            18/05/2010   Recert with      18/05/2010
-                         VALE VIC 3044                                                          SOC                                 SOC
+SC/2009/252              74 Chapman                     Subdivision of the land into four lots         Statement of           27/05/2010   Statement of     27/05/2010
+                         Avenue GLENROY VIC                                                            Compliance                          Compliance
+                         3046                                                                          Issued                              Issued
+
+SC/2009/256              10 Churchill                   Subdivision of the land into two lots          Statement of           24/05/2010   Statement of     24/05/2010
+                         Street GLENROY VIC                                                            Compliance                          Compliance
+                         3046                                                                          Issued                              Issued
+
+SC/2009/257              98 North                       Subdivision of the land into two lots -        Certified without       4/06/2010
+                         Street HADFIELD VIC            existing buildings                             Statement of
+                         3046                                                                          Compliance
 
 
-SC/2009/90               14-36 Hossack                Subdivision of land into seven lots       Statement of           28/05/2010   Statement of     28/05/2010
-                         Avenue COBURG                                                          Compliance                          Compliance
-                         NORTH VIC 3058                                                         Issued                              Issued
 
-SC/2009/93               116 Albert                   Subdivision of land into sixteen lots     Recert with            12/05/2010   Recert with      12/05/2010
-                         Street BRUNSWICK VIC                                                   SOC                                 SOC
-                         3056
-
-
-
-Wednesday, 9 June 2010                                                                                                                               Page 2 of 4
+Wednesday, 23 June 2010                                                                                                                                     Page 2 of 4
 Subdivision Certification Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
-Application Number Address                            Description                                Latest Decision     Decision Date   SOC Issued     SOC Date
-SC/2009/93               116 Albert                   Subdivision of land into sixteen lots      Recert with            12/05/2010   Statement of     19/04/2010
-                         Street BRUNSWICK VIC                                                    SOC                                 Compliance
-                         3056                                                                                                        Issued
+Application Number Address                          Description                                    Latest Decision     Decision Date   SOC Issued     SOC Date
+SC/2009/263              31 Alpine Grove PASCOE         Subdivision of the land into eleven lots   Recert with            22/06/2010   Recert with      22/06/2010
+                         VALE VIC 3044                                                             SOC                                 SOC
 
-SC/2010/103              309 Victoria                 Amending plan of subdivision to            Certified &            24/05/2010   Certified &      24/05/2010
-                         Street BRUNSWICK VIC         incorporate Owners Corporation to          Statement of                        Statement of
-                         3056                         include Lot 1                              Compliance                          Compliance
 
-SC/2010/20               2 Virginia Street PASCOE     Subdivision of the land into two lots      Statement of            7/06/2010   Certified &       7/06/2010
-                         VALE VIC 3044                                                           Compliance                          Statement of
-                                                                                                 Issued                              Compliance
+SC/2009/263              31 Alpine Grove PASCOE         Subdivision of the land into eleven lots   Recert with            22/06/2010   Statement of     20/04/2010
+                         VALE VIC 3044                                                             SOC                                 Compliance
+                                                                                                                                       Issued
 
-SC/2010/20               2 Virginia Street PASCOE     Subdivision of the land into two lots      Statement of            7/06/2010   Statement of      7/06/2010
-                         VALE VIC 3044                                                           Compliance                          Compliance
-                                                                                                 Issued                              Issued
+SC/2009/267              10 Damian                      Subdivision of the land into two lots      Certified without       4/06/2010
+                         Court GLENROY VIC                                                         Statement of
+                         3046                                                                      Compliance
 
-SC/2010/25               85 Plumpton                  Subdivision of the land into three lots    Certified without       4/06/2010
-                         Avenue GLENROY VIC                                                      Statement of
-                         3046                                                                    Compliance
+SC/2009/65               56 Stewart                     Subdivision of the land into three lots    Certified &            22/06/2010   Certified &      22/06/2010
+                         Street BRUNSWICK VIC                                                      Statement of                        Statement of
+                         3056                                                                      Compliance                          Compliance
 
-SC/2010/27               74 Cassels                   Subdivision of the land into two lots      Certified without       1/06/2010
-                         Road BRUNSWICK VIC                                                      Statement of
-                         3056                                                                    Compliance
+SC/2009/90               14-36 Hossack                  Subdivision of land into seven lots        Statement of           28/05/2010   Statement of     28/05/2010
+                         Avenue COBURG                                                             Compliance                          Compliance
+                         NORTH VIC 3058                                                            Issued                              Issued
 
-SC/2010/29               41 Hubert                    Subdivision of the land into two lots      Certified without      31/05/2010
-                         Avenue GLENROY VIC                                                      Statement of
-                         3046                                                                    Compliance
+SC/2009/95               156 Nicholson                  Subdivision of land into three lots        Statement of           15/06/2010   Statement of     15/06/2010
+                         Street COBURG VIC                                                         Compliance                          Compliance
+                         3058                                                                      Issued                              Issued
 
-SC/2010/39               120 Major                    Subdivision of the land into three lots    Certified without      11/05/2010
-                         Road FAWKNER VIC                                                        Statement of
-                         3060                                                                    Compliance
+SC/2010/103              309 Victoria                   Amending plan of subdivision to            Certified &            24/05/2010   Certified &      24/05/2010
+                         Street BRUNSWICK VIC           incorporate Owners Corporation to          Statement of                        Statement of
+                         3056                           include Lot 1                              Compliance                          Compliance
 
-SC/2010/42               9 Dawson                     Subdivision of the land into 23 lots -     Certified without      31/05/2010
-                         Street COBURG NORTH          Stage 2                                    Statement of
-                         VIC 3058                                                                Compliance
+SC/2010/20               2 Virginia Street PASCOE       Subdivision of the land into two lots      Statement of            7/06/2010   Certified &       7/06/2010
+                         VALE VIC 3044                                                             Compliance                          Statement of
+                                                                                                   Issued                              Compliance
 
-SC/2010/43               20 Hossack                   Subdivision of the land into four lots -   Certified without      31/05/2010
-                         Avenue COBURG                Stage 3                                    Statement of
-                         NORTH VIC 3058                                                          Compliance
+SC/2010/20               2 Virginia Street PASCOE       Subdivision of the land into two lots      Statement of            7/06/2010   Statement of      7/06/2010
+                         VALE VIC 3044                                                             Compliance                          Compliance
+                                                                                                   Issued                              Issued
 
-SC/2010/49               16 Lorensen                  Subdivision of the land into three lots    Statement of           28/05/2010   Statement of     28/05/2010
-                         Avenue COBURG                                                           Compliance                          Compliance
-                         NORTH VIC 3058                                                          Issued                              Issued
+SC/2010/21               142A Albert                    Subdivision of the land into two lots      Certified &            22/06/2010   Certified &      22/06/2010
+                         Street BRUNSWICK VIC                                                      Statement of                        Statement of
+                         3056                                                                      Compliance                          Compliance
 
-SC/2010/53               197A Sussex                  Subdivision of the land into two lots -    Certified without      21/05/2010
-                         Street PASCOE VALE           existing buildings                         Statement of
-                         VIC 3044                                                                Compliance
+SC/2010/25               85 Plumpton                    Subdivision of the land into three lots    Certified without       4/06/2010
+                         Avenue GLENROY VIC                                                        Statement of
+                         3046                                                                      Compliance
 
-SC/2010/57               11 South                     Subdivision of the land into five lots     Refused                 2/06/2010
+SC/2010/27               74 Cassels                     Subdivision of the land into two lots      Statement of           10/06/2010   Statement of     10/06/2010
+                         Road BRUNSWICK VIC                                                        Compliance                          Compliance
+                         3056                                                                      Issued                              Issued
+
+SC/2010/29               41 Hubert                      Subdivision of the land into two lots      Statement of           10/06/2010   Statement of     10/06/2010
+                         Avenue GLENROY VIC                                                        Compliance                          Compliance
+                         3046                                                                      Issued                              Issued
+
+
+
+Wednesday, 23 June 2010                                                                                                                                 Page 3 of 4
+Subdivision Certification Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Application Number Address                          Description                                    Latest Decision     Decision Date   SOC Issued     SOC Date
+SC/2010/42               9 Dawson                       Subdivision of the land into 23 lots -     Statement of           17/06/2010   Statement of     17/06/2010
+                         Street COBURG NORTH            Stage 2                                    Compliance                          Compliance
+                         VIC 3058                                                                  Issued                              Issued
+
+SC/2010/43               20 Hossack                     Subdivision of the land into four lots -   Statement of           17/06/2010   Statement of     17/06/2010
+                         Avenue COBURG                  Stage 3                                    Compliance                          Compliance
+                         NORTH VIC 3058                                                            Issued                              Issued
+
+SC/2010/49               16 Lorensen                    Subdivision of the land into three lots    Statement of           28/05/2010   Statement of     28/05/2010
+                         Avenue COBURG                                                             Compliance                          Compliance
+                         NORTH VIC 3058                                                            Issued                              Issued
+
+SC/2010/50               24 York Street GLENROY         Subdivision of the land into four lots     Certified &            21/06/2010   Certified &      21/06/2010
+                         VIC 3046                                                                  Statement of                        Statement of
+                                                                                                   Compliance                          Compliance
+
+SC/2010/57               11 South                       Subdivision of the land into five lots     Refused                 2/06/2010
                          Street HADFIELD VIC
                          3046
 
+SC/2010/66               242 Boundary                   Subdivision of the land into eight lots    Statement of           31/05/2010   Statement of     31/05/2010
+                         Road PASCOE VALE                                                          Compliance                          Compliance
+                         VIC 3044                                                                  Issued                              Issued
+
+SC/2010/68               1/16 Newton                    Subdivision of the land into two lots      Certified without      27/05/2010
+                         Street GLENROY VIC                                                        Statement of
+                         3046                                                                      Compliance
+
+SC/2010/71               43 Sussex                      Subdivision of the land into two lots      Certified without       9/06/2010
+                         Street PASCOE VALE                                                        Statement of
+                         SOUTH VIC 3044                                                            Compliance
+
+SC/2010/75               71 John                        Subdivision of the land into two lots      Certified without      22/06/2010
+                         Street GLENROY VIC                                                        Statement of
+                         3046                                                                      Compliance
+
+SC/2010/80               32 Kennedy                     Subdivision of the land into four lots     Statement of           21/06/2010   Statement of     21/06/2010
+                         Street GLENROY VIC                                                        Compliance                          Compliance
+                         3046                                                                      Issued                              Issued
+
+SC/2010/9                146 Sussex                     Subdivision of the land into two lots -    Certified &            17/06/2010   Certified &      17/06/2010
+                         Street PASCOE VALE             existing buildings                         Statement of                        Statement of
+                         VIC 3044                                                                  Compliance                          Compliance
+
+SC/2010/96               33 Appleby                     Subdivision of the land into two lots -    Certified &            15/06/2010   Certified &      15/06/2010
+                         Crescent BRUNSWICK             existing buildings                         Statement of                        Statement of
+                         WEST VIC 3055                                                             Compliance                          Compliance
 
 
-Wednesday, 9 June 2010                                                                                                                                Page 3 of 4
-Subdivision Certification Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Application Number Address                            Description                               Latest Decision     Decision Date   SOC Issued     SOC Date
-SC/2010/66               242 Boundary                 Subdivision of the land into eight lots   Statement of           31/05/2010   Statement of     31/05/2010
-                         Road PASCOE VALE                                                       Compliance                          Compliance
-                         VIC 3044                                                               Issued                              Issued
-
-SC/2010/68               1/16 Newton                  Subdivision of the land into two lots     Certified without      27/05/2010
-                         Street GLENROY VIC                                                     Statement of
-                         3046                                                                   Compliance
-
-SC/2010/80               32 Kennedy                   Subdivision of the land into four lots    Certified without      18/05/2010
-                         Street GLENROY VIC                                                     Statement of
-                         3046                                                                   Compliance
-
-SC/2010/95               1/54 Victoria                Consolidation of land                     Certified &            17/05/2010   Certified &      17/05/2010
-                         Street COBURG VIC                                                      Statement of                        Statement of
-                         3058                                                                   Compliance                          Compliance
 
 
-
-
-Wednesday, 9 June 2010                                                                                                                               Page 4 of 4
+Wednesday, 23 June 2010                                                                                                                                 Page 4 of 4
 

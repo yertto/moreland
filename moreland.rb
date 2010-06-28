@@ -172,6 +172,7 @@ class Report
     ward = wards.count == 0 ? Ward.first_or_create(:name => cols[:ward]) : wards.last
     address = page.report.council.addresses.first_or_new(cols[:address])
     address.ward = ward
+    cols[:description] = cols[:description][0..49]  # trying to get heroku db:push to work
     app = Application.first_or_create(  # XXX
       { :number => cols[:number] },
       Application.properties.inject({:address => address}) { |h, prop|

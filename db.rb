@@ -82,7 +82,7 @@ class ApplicationEvent
   property :id                 , Serial
   property :application_number , ApplicationNumber
   property :date               , Date              #, :required => false # XXX - nullable?
-  property :status             , Text
+  property :status             , String
   property :event              , Enum[
    :received, :updated, :advertised, :decided]
 
@@ -102,7 +102,7 @@ class Application
   include DataMapper::Resource 
 
   property :number      , ApplicationNumber , :key => true
-  property :description , Text
+  property :description , Text              , :length => 50
 
   belongs_to :address
   has n    , :application_events
@@ -166,7 +166,8 @@ class Report
   end
 
   def to_s
-    "<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events.count} application events)>" #+ "\n #{pages.join("\n  ")}"
+    #"<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events.count} application events)>" #+ "\n #{pages.join("\n  ")}"
+    "<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events2.size} application events)>" #+ "\n #{pages.join("\n  ")}"
   end
 end
 

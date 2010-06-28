@@ -1,570 +1,463 @@
 Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
 Ward               Decision           Decision Date Application Number Address                           Description
 
-North East         Planning                3/06/2010   MPS/2010/156    83 Mitchell Street BRUNSWICK      Construct an outbuilding
-                   Permit                                              VIC 3056
+North East         Planning              11/06/2010     MPS/2009/659    8 Shaw Street FAWKNER VIC 3060   Development of the land for two dwellings (single storey to
+                   Permit                                                                                the rear of existing dwelling).
 
 
-North East         Planning               28/05/2010   SP/2010/37      9 Dawson Street COBURG NORTH      Subdivision of the land into 23 lots - Stage 2
-                   Permit                                              VIC 3058
+North East         Planning              31/05/2010     SP/2010/38      20 Hossack Avenue COBURG         Subdivision of the land into four lots - Stage 3
+                   Permit                                               NORTH VIC 3058
 
 
-North East         Planning                1/06/2010   MPS/2009/728    184 Bell Street COBURG VIC 3058   Use and development of the land for two dwellings (double
-                   Permit                                                                                storey dwelling to the rear of the existing)
+North East         Planning              25/05/2010     MPS/2009/600    4/159 Newlands Road COBURG       Use of the land for a Retail Premises (Motor Vehicle Sales)
+                   Permit                                               NORTH VIC 3058                   and a variation to the requirements of Clause 52.14
 
 
-North East         Notice of              21/05/2010   MPS/2009/726    39 Arthur Street COBURG NORTH     Construction of a double storey dwelling
-                   Decision                                            VIC 3058
-
-
-North East         Planning               19/05/2010   MPS/2009/655    15 Brockley Road FAWKNER VIC      Development of the land for three dwellings (one two storey
-                   Permit                                              3060                              & two single storey)
-
-
-North East         Planning                2/06/2010   MPS/2010/84     1/327 Moreland Road COBURG        Alterations and additions to an existing dwelling
-                   Permit                                              VIC 3058
-
-
-North East         Planning               31/05/2010   SP/2010/38      20 Hossack Avenue COBURG          Subdivision of the land into four lots - Stage 3
-                   Permit                                              NORTH VIC 3058
-
-
-North East         VCAT                   12/05/2010   MPS/2008/912    9 Florence Street COBURG VIC      Development of land for three double storey dwellings
-                   Permit                                              3058
-
-
-North East         Planning                4/06/2010   MPS/2009/235    70 Lynch Road FAWKNER VIC         Development of the land for a double storey dwelling to the
-                   Permit                                              3060                              rear of the existing dwelling
-
-
-North East         Planning                4/06/2010   SP/2010/88      1/41 Davies Street BRUNSWICK      Subdivision of the land into five lots - existing buildings
-                   Permit                                              VIC 3056
-
-
-North East         Notice of              17/05/2010   MPS/2009/371    6/62 Newlands Road COBURG         Development of land for a three storey building comprising
-                   Decision                                            NORTH VIC 3058                    a shop, office and two dwellings including a reduction in the
-                                                                                                         standard car-parking requirement and waiver of the loading
-                                                                                                         bay requirements
-
-North East         Planning               19/05/2010   MPS/2009/381    24 Carr Street COBURG NORTH       Construct two dwellings double storey dwellings at the rear
-                   Permit                                              VIC 3058                          of an existing dwelling
-
-
-
-
-Wednesday, 9 June 2010                                                                                                                                       Page 1 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Ward               Decision           Decision Date Application Number Address                           Description
-
-North East         Notice of               4/06/2010   MPS/2010/178     267 Gaffney Street PASCOE VALE   Use & development of the land for a takeaway food
-                   Decision                                             VIC 3044                         premises, including the installation of a flue & a reduction in
-                                                                                                         the car parking requirement
-
-North East         Withdrawn              25/05/2010   MPS/2008/59/A    1/197 The Avenue COBURG VIC      Development of the land for five dwellings (three new
-                                                                        3058                             double storey dwellings adjacent to the existing dwellings)
-
-
-North East         Planning               27/05/2010   MPS/2010/407     14 Golf Road COBURG NORTH        Construction of a verandah
-                   Permit                                               VIC 3058
-
-
-North East         Planning                4/06/2010   MPS/2009/747     13 Main Street COBURG VIC 3058   Development of the land for a double storey dwelling at the
-                   Permit                                                                                rear of existing dwelling
-
-
-North East         Planning               19/05/2010   MPS/2009/815     49 Denys Street FAWKNER VIC      Development of the land for two dwellings (single storey
-                   Permit                                               3060                             dwelling to the rear of the existing dwelling)
-
-
-North East         Planning                2/06/2010   MPS/2009/857     3 Beckley Street COBURG VIC      Construct four single storey dwellings
-                   Permit                                               3058
-
-
-North East         Planning                7/06/2010   MPS/2010/286     18 Grey Court COBURG VIC 3058    Development of an outbuilding to the rear of existing
+North East         Planning               7/06/2010     MPS/2010/286    18 Grey Court COBURG VIC 3058    Development of an outbuilding to the rear of existing
                    Permit                                                                                dwelling
 
 
-North East         Planning               26/05/2010   MPS/2009/589     398 Sydney Road COBURG VIC       Buildings and works to construct a five storey building
-                   Permit                                               3058                             comprising shops at ground level and office above and a
-                                                                                                         waiver of the standard car parking and loading bay
-                                                                                                         requirements
+North East         Planning               4/06/2010     SP/2010/88      1/41 Davies Street BRUNSWICK     Subdivision of the land into five lots - existing buildings
+                   Permit                                               VIC 3056
 
-North East         Amended                29/05/2010   MPS/2009/116/A   24A Henty Street BRUNSWICK       Alterations and additions to an existing dwelling
-                   Planning                                             VIC 3056
-                   Permit
 
+North East         Planning               4/06/2010     MPS/2009/235    70 Lynch Road FAWKNER VIC        Development of the land for a double storey dwelling to the
+                   Permit                                               3060                             rear of the existing dwelling
 
-North East         Planning               12/05/2010   SP/2010/40       22 Florence Street COBURG VIC    Subdivision of the land into two lots
-                   Permit                                               3058
 
+North East         Planning              21/06/2010     SP/2010/75      23 Albert Street FAWKNER VIC     Subdivision of the land into two lots - existing buildings
+                   Permit                                               3060
 
-North East         Planning               12/05/2010   MPS/2010/198     14 Wattle Grove COBURG VIC       To construct an inground pool
-                   Permit                                               3058
 
+North East         Refused               21/06/2010     MPS/2009/804    117 Moreland Road COBURG VIC     The development of the land for two (double storey)
+                                                                        3058                             dwellings
 
-North East         Planning                4/06/2010   SP/2009/178      Lot S9 Pentridge                 Subdivision of the land into 3 lots - Stage 9
-                   Permit                                               Boulevard COBURG VIC 3058
 
+North East         Withdrawn             25/05/2010     MPS/2008/59/A   1/197 The Avenue COBURG VIC      Development of the land for five dwellings (three new
+                                                                        3058                             double storey dwellings adjacent to the existing dwellings)
 
 
+North East         Planning              21/06/2010     SP/2010/14      2/23 Lynch Road FAWKNER VIC      Subdivision of the land into two lots - Unit 2 acquiring part
+                   Permit                                               3060                             of the common property
 
-Wednesday, 9 June 2010                                                                                                                                       Page 2 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
 
-Ward               Decision           Decision Date Application Number Address                          Description
-
-North East         Withdrawn              19/05/2010   MPS/2010/372    38 Bonwick Street FAWKNER VIC    Display of business identification signs
-                                                                       3060
-
-
-North East         Planning               14/05/2010   SP/2009/231     61 Barrow Street COBURG VIC      Subdivision of the land into two lots
-                   Permit                                              3058
-
-
-North East         Planning               12/05/2010   MPS/2009/805    19 Chambers Street COBURG VIC    Partial demolition and alterations and additions to existing
-                   Permit                                              3058                             dwelling
-
-
-North East         Withdrawn              18/05/2010   MPS/2009/430    8 Lily Street COBURG NORTH VIC   Construct a two storey building that contains five dwellings
-                                                                       3058
-
-
-North East         VCAT                   12/05/2010   MPS/2008/419    262 Reynard Street COBURG VIC    Development of land for three double storey dwellings
-                   Permit                                              3058
-
-
-North East         Amended                 4/06/2010   MPS/2009/91/A   38 Bonwick Street FAWKNER VIC    Buildings & works to extend the existing supermarket for
-                   Planning                                            3060                             use as storage and plant room and to construct external
-                   Permit                                                                               alterations to the existing buildings, including a new roller
-                                                                                                        shutter door, display of advertising signage and a waiver of
-                                                                                                        the standard carparking requirements
-
-North East         Planning               25/05/2010   MPS/2009/600    4/159 Newlands Road COBURG       Use of the land for a Retail Premises (Motor Vehicle Sales)
-                   Permit                                              NORTH VIC 3058                   and a variation to the requirements of Clause 52.14
-
-
-North East         Planning               19/05/2010   MPS/2010/341    3 Shedden Street PASCOE VALE     Construction of a single storey dwelling
-                   Permit                                              VIC 3044
-
-
-North West         Lapsed                 24/05/2010   SP/2009/213     902 Pascoe Vale Road GLENROY     Subdivision of the land into three lots
-                                                                       VIC 3046
-
-
-North West         Notice of              17/05/2010   MPS/2009/738    58 Augustine Terrace GLENROY     Development of the land to construct three dwellings (two
-                   Decision                                            VIC 3046                         double storey and one single storey)
-
-
-North West         Planning               13/05/2010   SP/2010/62      1/16 Newton Street GLENROY VIC   Subdivision of the land into two lots
-                   Permit                                              3046
-
-
-North West         Planning               27/05/2010   MPS/2009/786    84 Essex Street PASCOE VALE      Development of the land for three dwellings ( one double
-                   Permit                                              VIC 3044                         storey and two single storey)
-
-
-
-
-Wednesday, 9 June 2010                                                                                                                                   Page 3 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Ward               Decision           Decision Date Application Number Address                           Description
-
-North West         Planning               25/05/2010   SP/2010/71      5 Mitchell Court GLENROY VIC      Subdivision of the land into two lots
-                   Permit                                              3046
-
-
-North West         Amended                18/05/2010   MPS/2006/94/A   253 Derby Street PASCOE VALE      Development of five two-storey dwellings
-                   Planning                                            VIC 3044
-                   Permit
-
-
-North West         Planning               27/05/2010   MPS/2009/739    85 Gowrie Street GLENROY VIC      Development of land to construct a single storey dwelling to
-                   Permit                                              3046                              the rear of existing dwelling
-
-
-North West         Planning               12/05/2010   MPS/2009/813    33 Curie Avenue OAK PARK VIC      Development of land for three dwellings (two double storey
-                   Permit                                              3046                              and one single storey dwelling)
-
-
-North West         Planning               19/05/2010   MPS/2010/12     353 Gaffney Street PASCOE VALE    Development of the land for four dwellings (three double
-                   Permit                                              VIC 3044                          storey and one single storey) and alteration of access to a
-                                                                                                         Road Zone
-
-North West         Notice of              12/05/2010   MPS/2009/814    4 Daley Street GLENROY VIC 3046   Development of land for two dwellings (one double storey
-                   Decision                                                                              and one single storey dwelling)
-
-
-North West         Planning               18/05/2010   SP/2010/68      71 John Street GLENROY VIC 3046   Subdivision of the land into two lots
-                   Permit
-
-
-North West         Planning                4/06/2010   MPS/2009/639    177 Derby Street PASCOE VALE      Development of the land for three double storey dwellings
-                   Permit                                              VIC 3044
-
-
-North West         Planning               13/05/2010   MPS/2009/460    51 Northumberland Road PASCOE     Development of land for four dwellings comprising three
-                   Permit                                              VALE VIC 3044                     double storey and one single storey dwelling
-
-
-North West         Planning               18/05/2010   SP/2010/74      32 Kennedy Street GLENROY VIC     Subdivision of the land into four lots
-                   Permit                                              3046
-
-
-North West         VCAT                   11/05/2010   MPS/2009/272    33 Mitchell Parade PASCOE VALE    Development of land for eighteen double storey dwellings
-                   Refused                                             SOUTH VIC 3044
-
-
-North West         Planning               19/05/2010   MPS/2010/242    61 Primula                        Construction of a dwelling
-                   Permit                                              Boulevard GOWANBRAE VIC 3043
-
-
-
-
-Wednesday, 9 June 2010                                                                                                                                   Page 4 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Ward               Decision           Decision Date Application Number Address                         Description
-
-North West         Notice of              17/05/2010   MPS/2009/764    10 Albert Street OAK PARK VIC   Development of the land for two single storey dwellings
-                   Decision                                            3046
-
-
-North West         Planning               28/05/2010   SP/2010/76      19 Grandview Street GLENROY     Subdivision of the land into three lots
-                   Permit                                              VIC 3046
-
-
-North West         Notice of               3/06/2010   MPS/2010/13     252 Waterloo Road GLENROY VIC   Development of the land for three dwellings (two double
-                   Decision                                            3046                            storey dwellings to the rear of existing dwelling)
-
-
-North West         Planning               24/05/2010   MPS/2008/85/A   68 Rutherglen                   Construction of a double storey dwelling
-                   Permit                                              Crescent GOWANBRAE VIC 3043
-
-
-North West         Planning                4/06/2010   SP/2009/250     98 North Street HADFIELD VIC    Two lot subdivision of existing buildings and removal of a
-                   Permit                                              3046                            drainage and sewerage easement
-
-
-North West         Planning                3/06/2010   MPS/2009/303    88 Hilda Street GLENROY VIC     Development of land for two dwellings (one single and one
-                   Permit                                              3046                            double storey) in accordance with the endorsed plans
-
-
-North West         Notice of              17/05/2010   MPS/2009/650    15 Ogden Street GLENROY VIC     Development of land for four dwellings consisting of two
-                   Decision                                            3046                            double storey and two single storey dwellings
-
-
-North West         VCAT                   14/05/2010   MPS/2008/804    4 Nerissa Grove OAK PARK VIC    Development of land for two dwellings (two storey dwelling
-                   Permit                                              3046                            to the rear of existing dwelling)
-
-
-North West         Planning               31/05/2010   MPS/2010/308    24 Holly Court GOWANBRAE VIC    Construction of a single dwelling
-                   Permit                                              3043
-
-
-North West         Planning               19/05/2010   MPS/2010/247    53 Marigold                     Construction of a double storey dwelling
-                   Permit                                              Crescent GOWANBRAE VIC 3043
-
-
-North West         Planning                4/06/2010   MPS/2010/142    51 Hilda Street GLENROY VIC     The development of the land for three dwellings (two double
-                   Permit                                              3046                            storey and one single storey)
-
-
-North West         Planning               24/05/2010   MPS/2010/107    26 Eucra Street HADFIELD VIC    Development of the land for two dwellings (one new
-                   Permit                                              3046                            dwelling to the rear of existing dwelling)
-
-
-
-
-Wednesday, 9 June 2010                                                                                                                                 Page 5 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Ward               Decision           Decision Date Application Number Address                             Description
-
-North West         Amended                13/05/2010   MPS/2007/338/A   322 Reynard Street PASCOE VALE     Partial demolition, alterations and additions to the existing
-                   Planning                                             SOUTH VIC 3044                     single storey dwelling and the construction of a front fence
-                   Permit
-
-
-North West         Notice of              17/05/2010   MPS/2009/823     159 Landells Road PASCOE VALE      Construction of a double storey dwelling to the rear of
-                   Decision                                             VIC 3044                           existing dwelling
-
-
-North West         Notice of               3/06/2010   MPS/2009/705     83 Evell Street GLENROY VIC 3046   Development of land for two dwellings (single storey
-                   Decision                                                                                dwelling to the rear of existing dwelling)
-
-
-North West         Withdrawn              14/05/2010   MPS/2010/194     535 Pascoe Vale Road PASCOE        Development of the land for ten dwellings (eight three
-                                                                        VALE VIC 3044                      storey and two double storey dwellings), alteration
-                                                                                                           (removal) of an access to a Road Zone, and waiving of the
-                                                                                                           bicycle facilities requirement
-
-North West         Planning               17/05/2010   MPS/2009/580     63 West Street HADFIELD VIC        Development of land for two double storey dwellings
-                   Permit                                               3046
-
-
-North West         Planning                3/06/2010   MPS/2009/579     80 Landells Road PASCOE VALE       Development of land for two double storey dwellings
-                   Permit                                               VIC 3044
-
-
-North West         VCAT                   13/05/2010   MPS/2009/209     127 Augustine Terrace GLENROY      Development of land for three dwellings including the
-                   Permit                                               VIC 3046                           construction of two new double storey dwellings to the rear
-                                                                                                           of the existing dwelling
-
-North West         Planning                2/06/2010   MPS/2010/263     139 Hilton Street GLENROY VIC      Development of the land to construct a double storey
-                   Permit                                               3046                               dwelling to the rear of existing dwelling
-
-
-North West         Planning                4/06/2010   MPS/2010/441     44 Gallipoli Parade PASCOE VALE    Construction of a carport
+North East         Planning               9/06/2010     SP/2010/64      43 Sussex Street PASCOE VALE     Subdivision of the land into two lots
                    Permit                                               SOUTH VIC 3044
 
 
-North West         Refused                11/05/2010   MPS/2009/531     32-34 Dale Avenue PASCOE VALE      Development of land for four dwellings consisting of two
-                                                                        VIC 3044                           double storey and two single storey dwellings
+North East         Refused               18/06/2010     MPS/2010/219    49 Elizabeth Street COBURG VIC   Alterations and additions to construct a carport
+                                                                        3058
 
 
-North West         Notice of              12/05/2010   MPS/2009/485     3 Liza Court GLENROY VIC 3046      Construction of a Carport and Roofed Deck
-                   Decision
-
-
-North West         Planning               26/05/2010   MPS/2009/771     28 Connell Street GLENROY VIC      Development of the land for two dwellings (a single storey
-                   Permit                                               3046                               dwelling to the rear of an existing dwelling)
+North East         Planning              28/05/2010     SP/2010/37      9 Dawson Street COBURG NORTH     Subdivision of the land into 23 lots - Stage 2
+                   Permit                                               VIC 3058
 
 
 
 
-Wednesday, 9 June 2010                                                                                                                                      Page 6 of 11
+Wednesday, 23 June 2010                                                                                                                                     Page 1 of 12
 Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
-Ward               Decision           Decision Date Application Number Address                          Description
+Ward               Decision           Decision Date Application Number Address                            Description
 
-North West         Planning                4/06/2010   SP/2010/50       14 Kennedy Street GLENROY VIC   Subdivision of the land into four lots
-                   Permit                                               3046
-
-
-North West         Planning               17/05/2010   MPS/2010/170     47 Daley Street GLENROY VIC     Development of land for three dwellings consisting of one
-                   Permit                                               3046                            double and two attached single storey dwellings
+North East         Planning               4/06/2010     MPS/2009/747     13 Main Street COBURG VIC 3058   Development of the land for a double storey dwelling at the
+                   Permit                                                                                 rear of existing dwelling
 
 
-North West         Planning                3/06/2010   MPS/2010/186     14 Daley Street GLENROY VIC     Development of land to construct a single storey dwelling to
-                   Permit                                               3046                            the rear of an existing dwelling
+North East         Planning               4/06/2010     SP/2009/178      Lot S9 Pentridge                 Subdivision of the land into 3 lots - Stage 9
+                   Permit                                                Boulevard COBURG VIC 3058
 
 
-North West         Planning               11/05/2010   SP/2010/61       242 Boundary Road PASCOE VALE   Subdivision of the land into eight lots
-                   Permit                                               VIC 3044
+North East         Planning              27/05/2010     MPS/2010/407     14 Golf Road COBURG NORTH        Construction of a verandah
+                   Permit                                                VIC 3058
 
 
-North West         Notice of               2/06/2010   MPS/2009/797     119 Hilton Street GLENROY VIC   Development of land for three dwellings (one double and
-                   Decision                                             3046                            two single storey dwellings)
+North East         Refused                8/06/2010     MPS/2009/733     40 Soudan Street COBURG VIC      Construction of three double storey dwellings
+                                                                         3058
 
 
-North West         Planning               13/05/2010   SP/2010/63       58 Widford Street GLENROY VIC   Subdivision of the land into two lots
-                   Permit                                               3046
+North East         Amended                4/06/2010     MPS/2009/91/A    38 Bonwick Street FAWKNER VIC    Buildings & works to extend the existing supermarket for
+                   Planning                                              3060                             use as storage and plant room and to construct external
+                   Permit                                                                                 alterations to the existing buildings, including a new roller
+                                                                                                          shutter door, display of advertising signage and a waiver of
+                                                                                                          the standard carparking requirements
+
+North East         Planning               2/06/2010     MPS/2009/857     3 Beckley Street COBURG VIC      Construct four single storey dwellings
+                   Permit                                                3058
 
 
-North West         Notice of              21/05/2010   MPS/2009/843     35 Xavier Street OAK PARK VIC   Development of land for three dwellings consisting of two
-                   Decision                                             3046                            double storey dwellings and one single storey dwelling
-
-
-North West         Planning               13/05/2010   SP/2010/65       140 Outlook Drive GLENROY VIC   Subdivision of the land into two lots
-                   Permit                                               3046
-
-
-North West         VCAT                    4/06/2010   MPS/2008/865     188 Daley Street GLENROY VIC    Construction of three dwellings (consisting of two double
-                   Permit                                               3046                            storey and one single storey dwelling)
-
-
-North West         Amended                19/05/2010   MPS/2009/70/A    116 Devereaux Street OAK PARK   Development of land for two attached three storey dwellings
-                   Planning                                             VIC 3046
+North East         Amended               29/05/2010     MPS/2009/116/A   24A Henty Street BRUNSWICK       Alterations and additions to an existing dwelling
+                   Planning                                              VIC 3056
                    Permit
 
 
-North West         Amended                17/05/2010   MPS/2007/213/B   27 Morley Street GLENROY VIC    Development of land for two dwellings (Construction of one
-                   Planning                                             3046                            single storey dwelling to the rear of existing dwelling) and
-                   Permit                                                                               alterations and additions to the existing dwelling
+North East         Amended               15/06/2010     MPS/2009/362/A   125 Mitchell Street BRUNSWICK    Development of the land for a dwelling extension including
+                   Planning                                              VIC 3056                         alterations to the existing dwelling
+                   Permit
 
 
-North West         Lapsed                  2/06/2010   SP/2010/52       11 South Street HADFIELD VIC    Subdivision of the land into five lots
+North East         Notice of             18/06/2010     MPS/2009/685     7 Main Street COBURG VIC 3058    Development of land for three double storey dwellings
+                   Decision
+
+
+North East         Planning              18/06/2010     MPS/2010/203     394 Sydney Road COBURG VIC       Buildings and works for the installation of a flue
+                   Permit                                                3058
+
+
+North East         Planning               2/06/2010     MPS/2010/84      1/327 Moreland Road COBURG       Alterations and additions to an existing dwelling
+                   Permit                                                VIC 3058
+
+
+North East         Planning              16/06/2010     MPS/2010/454     4/64-74 Gaffney Street COBURG    Display of business identification signage
+                   Permit                                                VIC 3058
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                        Page 2 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                             Description
+
+North East         Planning              26/05/2010     MPS/2009/589     398 Sydney Road COBURG VIC        Buildings and works to construct a five storey building
+                   Permit                                                3058                              comprising shops at ground level and office above and a
+                                                                                                           waiver of the standard car parking and loading bay
+                                                                                                           requirements
+
+North East         Planning              16/06/2010     SP/2010/77       23 De Carle Street COBURG VIC     Subdivision of the land into five lots
+                   Permit                                                3058
+
+
+North East         Lapsed                11/06/2010     MPS/2010/109     20 Devon Avenue COBURG VIC        Alterations and additions to extend an existing two storey
+                                                                         3058                              dwelling
+
+
+North East         Notice of              4/06/2010     MPS/2010/178     267 Gaffney Street PASCOE VALE    Use & development of the land for a takeaway food
+                   Decision                                              VIC 3044                          premises, including the installation of a flue & a reduction in
+                                                                                                           the car parking requirement
+
+North East         Amended               16/06/2010     MPS/2004/555/A   761 Sydney Road COBURG VIC        Construction of a three storey building comprising five
+                   Planning                                              3058                              dwellings and to create access to Sydney Road (Road
+                   Permit                                                                                  Zone Category 1)
+
+
+North East         Notice of              9/06/2010     MPS/2010/59      110 Sydney Road COBURG VIC        Partial demolition, construction of alterations and a three
+                   Decision                                              3058                              storey extension to the rear of the existing building to
+                                                                                                           contain three dwellings, use of the land for two dwellings, a
+                                                                                                           reduction in the associated standard car parking
+                                                                                                           requirement, and road works (alteration (widening) of an
+                                                                                                           existing crossover).
+
+North East         Planning               1/06/2010     MPS/2009/728     184 Bell Street COBURG VIC 3058   Use and development of the land for two dwellings (double
+                   Permit                                                                                  storey dwelling to the rear of the existing)
+
+
+North East         Planning              16/06/2010     SP/2010/8        146 Sussex Street PASCOE VALE     Subdivision of the land into two lots - existing buildings
+                   Permit                                                VIC 3044
+
+
+North East         Planning               3/06/2010     MPS/2010/156     83 Mitchell Street BRUNSWICK      Construct an outbuilding
+                   Permit                                                VIC 3056
+
+
+North West         Notice of              3/06/2010     MPS/2010/13      252 Waterloo Road GLENROY VIC     Development of the land for three dwellings (two double
+                   Decision                                              3046                              storey dwellings to the rear of existing dwelling)
+
+
+North West         Planning              28/05/2010     SP/2010/76       19 Grandview Street GLENROY       Subdivision of the land into three lots
+                   Permit                                                VIC 3046
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                      Page 3 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                         Description
+
+North West         Planning               4/06/2010     MPS/2009/639   177 Derby Street PASCOE VALE    Development of the land for three double storey dwellings
+                   Permit                                              VIC 3044
+
+
+North West         Planning              17/06/2010     MPS/2010/4     43 Loongana Avenue GLENROY      Development of land for two dwellings (new double-storey
+                   Permit                                              VIC 3046                        dwelling at rear of existing dwelling)
+
+
+North West         Planning               3/06/2010     MPS/2010/186   14 Daley Street GLENROY VIC     Development of land to construct a single storey dwelling to
+                   Permit                                              3046                            the rear of an existing dwelling
+
+
+North West         Planning              26/05/2010     MPS/2009/771   28 Connell Street GLENROY VIC   Development of the land for two dwellings (a single storey
+                   Permit                                              3046                            dwelling to the rear of an existing dwelling)
+
+
+North West         Planning               3/06/2010     MPS/2010/442   345A Gaffney Street PASCOE      Construction of buildings and works comprising 1 x vehicle
+                   Permit                                              VALE VIC 3044                   bay widening (to create an accessible parking space) within
+                                                                                                       the Gaffney Road frontage setback, an associated
+                                                                                                       relocation of business identification signage and flag poles,
+                                                                                                       and construction of an entrance path and handrails
+
+North West         Planning              31/05/2010     MPS/2010/308   24 Holly Court GOWANBRAE VIC    Construction of a single dwelling
+                   Permit                                              3043
+
+
+North West         Lapsed                 9/06/2010     MPS/2010/197   63 Hartington Street GLENROY    Development of land for three dwellings comprising the
+                                                                       VIC 3046                        construction of two double storey dwellings to the rear of
+                                                                                                       existing dwelling and an extension to the existing dwelling
+                                                                                                       to construct an upper storey addition and rear garage
+
+North West         Planning              16/06/2010     MPS/2010/28    141 Loongana Avenue GLENROY     Development of land for four double storey dwellings
+                   Permit                                              VIC 3046
+
+
+North West         Planning              27/05/2010     MPS/2009/786   84 Essex Street PASCOE VALE     Development of the land for three dwellings ( one double
+                   Permit                                              VIC 3044                        storey and two single storey)
+
+
+North West         Planning               3/06/2010     MPS/2009/579   80 Landells Road PASCOE VALE    Development of land for two double storey dwellings
+                   Permit                                              VIC 3044
+
+
+North West         Notice of             21/06/2010     MPS/2010/79    13 Stella Street GLENROY VIC    Development of land for four dwellings consisting of three
+                   Decision                                            3046                            double and one single storey dwellings
+
+
+North West         Planning              10/06/2010     SP/2010/82     86 Hubert Avenue GLENROY VIC    Subdivision of the land into three lots
+                   Permit                                              3046
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                Page 4 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                            Description
+
+North West         Planning              11/06/2010     MPS/2009/814   4 Daley Street GLENROY VIC 3046    Development of land for two dwellings (one double storey
+                   Permit                                                                                 and one single storey dwelling)
+
+
+North West         Planning               8/06/2010     MPS/2010/22    5 Edith Street OAK PARK VIC 3046   Development of the land for two dwellings (construction of
+                   Permit                                                                                 single-storey dwelling to the rear of existing dwelling)
+
+
+North West         Planning               8/06/2010     MPS/2009/574   22 Somali Street PASCOE VALE       Development of the land for two dwellings, including partial
+                   Permit                                              SOUTH VIC 3044                     demolition and alterations to the existing dwelling and
+                                                                                                          construction of a single storey dwelling at the rear
+
+North West         Amended               21/06/2010     SP/2010/60/A   370 O'Hea Street PASCOE VALE       Subdivision of the land into five lots
+                   Planning                                            SOUTH VIC 3044
+                   Permit
+
+
+North West         Notice of              3/06/2010     MPS/2009/705   83 Evell Street GLENROY VIC 3046   Development of land for two dwellings (single storey
+                   Decision                                                                               dwelling to the rear of existing dwelling)
+
+
+North West         Notice of             18/06/2010     MPS/2010/230   6 Eddie Street PASCOE VALE VIC     Development of land for three double storey dwellings
+                   Decision                                            3044
+
+
+North West         Planning              11/06/2010     MPS/2009/492   923 Pascoe Vale Road GLENROY       Development of the land for two dwellings (comprising a
+                   Permit                                              VIC 3046                           double storey dwelling to the rear and alterations and a first
+                                                                                                          floor extension to the existing dwelling), including altering
+                                                                                                          access to a road in a Road Zone, Category 1.
+
+North West         Planning               4/06/2010     SP/2010/50     14 Kennedy Street GLENROY VIC      Subdivision of the land into four lots
+                   Permit                                              3046
+
+
+North West         Planning               4/06/2010     SP/2009/250    98 North Street HADFIELD VIC       Two lot subdivision of existing buildings and removal of a
+                   Permit                                              3046                               drainage and sewerage easement
+
+
+North West         Planning              16/06/2010     SP/2010/55     3 Pascoe Street PASCOE VALE        Subdivision of the land into fourteen lots
+                   Permit                                              VIC 3044
+
+
+North West         Planning              22/06/2010     SP/2010/94     354 Waterloo Road GLENROY VIC      Subdivision of the land into three lots
+                   Permit                                              3046
+
+
+North West         Planning               4/06/2010     MPS/2010/142   51 Hilda Street GLENROY VIC        The development of the land for three dwellings (two double
+                   Permit                                              3046                               storey and one single storey)
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                    Page 5 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                            Description
+
+North West         Planning               4/06/2010     MPS/2010/441    44 Gallipoli Parade PASCOE VALE   Construction of a carport
+                   Permit                                               SOUTH VIC 3044
+
+
+North West         Planning              27/05/2010     MPS/2009/739    85 Gowrie Street GLENROY VIC      Development of land to construct a single storey dwelling to
+                   Permit                                               3046                              the rear of existing dwelling
+
+
+North West         Planning               2/06/2010     MPS/2010/263    139 Hilton Street GLENROY VIC     Development of the land to construct a double storey
+                   Permit                                               3046                              dwelling to the rear of existing dwelling
+
+
+North West         Planning              18/06/2010     MPS/2010/339    31 Watt Avenue OAK PARK VIC       Construction of a front fence
+                   Permit                                               3046
+
+
+North West         Planning              16/06/2010     MPS/2009/823    159 Landells Road PASCOE VALE     Construction of a double storey dwelling to the rear of
+                   Permit                                               VIC 3044                          existing dwelling
+
+
+North West         Refused               10/06/2010     MPS/2009/700    38 Anderson Street PASCOE VALE    Use and development of the land for a satellite dish
+                                                                        VIC 3044
+
+
+North West         Notice of             21/06/2010     MPS/2010/209    10 Virginia Street PASCOE VALE    Development of the land for two dwellings (new double-
+                   Decision                                             VIC 3044                          storey dwelling to the rear of existing)
+
+
+North West         Planning              24/05/2010     MPS/2008/85/A   68 Rutherglen                     Construction of a double storey dwelling
+                   Permit                                               Crescent GOWANBRAE VIC 3043
+
+
+North West         Lapsed                24/05/2010     SP/2009/213     902 Pascoe Vale Road GLENROY      Subdivision of the land into three lots
+                                                                        VIC 3046
+
+
+North West         Notice of              9/06/2010     MPS/2009/749    50 Snell Grove PASCOE VALE VIC    Development of land for the construction of two double
+                   Decision                                             3044                              storey dwellings
+
+
+North West         Planning               8/06/2010     MPS/2009/746    52 West Street HADFIELD VIC       Development of the land to construct a single storey
+                   Permit                                               3046                              dwelling to the rear of the existing dwelling
+
+
+North West         Planning              21/06/2010     MPS/2009/843    35 Xavier Street OAK PARK VIC     Development of land for three dwellings consisting of two
+                   Permit                                               3046                              double storey dwellings and one single storey dwelling
+
+
+North West         Planning              16/06/2010     MPS/2009/767    3 Surrey Street HADFIELD VIC      Construction of a single-storey dwelling to the rear of
+                   Permit                                               3046                              existing dwelling
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                    Page 6 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                            Description
+
+North West         Amended               21/06/2010     SP/2009/191/A   20 Railway Parade PASCOE VALE     Subdivision of the land into three lots
+                   Planning                                             VIC 3044
+                   Permit
+
+
+North West         Lapsed                 2/06/2010     SP/2010/52      11 South Street HADFIELD VIC      Subdivision of the land into five lots
                                                                         3046
 
 
+North West         Planning              21/06/2010     SP/2010/93      62 North Street HADFIELD VIC      Subdivision of the land into three lots
+                   Permit                                               3046
 
 
-Wednesday, 9 June 2010                                                                                                                                  Page 7 of 11
+North West         Notice of             21/06/2010     MPS/2009/690    43 West Street HADFIELD VIC       Development of land to construct a double storey dwelling
+                   Decision                                             3046                              to the rear of an existing dwelling.
+
+
+North West         Planning              11/06/2010     MPS/2009/485    3 Liza Court GLENROY VIC 3046     Construction of a Carport and Roofed Deck
+                   Permit
+
+
+North West         Planning              25/05/2010     SP/2010/71      5 Mitchell Court GLENROY VIC      Subdivision of the land into two lots
+                   Permit                                               3046
+
+
+North West         Planning               3/06/2010     MPS/2009/303    88 Hilda Street GLENROY VIC       Development of land for two dwellings (one single and one
+                   Permit                                               3046                              double storey) in accordance with the endorsed plans
+
+
+North West         Refused                9/06/2010     MPS/2010/14     64 Reynolds Parade PASCOE VALE    Development of the land for two double storey dwellings
+                                                                        SOUTH VIC 3044
+
+
+North West         Refused               10/06/2010     MPS/2009/790    96 Winifred Street OAK PARK VIC   Development of land for two double storey dwellings
+                                                                        3046
+
+
+North West         VCAT                   4/06/2010     MPS/2008/865    188 Daley Street GLENROY VIC      Construction of three dwellings (consisting of two double
+                   Permit                                               3046                              storey and one single storey dwelling)
+
+
+North West         Notice of              2/06/2010     MPS/2009/797    119 Hilton Street GLENROY VIC     Development of land for three dwellings (one double and
+                   Decision                                             3046                              two single storey dwellings)
+
+
+North West         VCAT                  11/06/2010     MPS/2009/461    49 Westgate Street PASCOE VALE    Development of the land for four dwellings (two double and
+                   Permit                                               SOUTH VIC 3044                    two single storey dwellings)
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                   Page 7 of 12
 Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
 Ward               Decision           Decision Date Application Number Address                          Description
 
-South              Planning                7/06/2010   MPS/2009/792    19 Church Street BRUNSWICK VIC   Use of the land as an arts and craft centre and dwelling and
+North West         Planning              21/06/2010     MPS/2009/738   58 Augustine Terrace GLENROY     Development of the land to construct three dwellings (two
+                   Permit                                              VIC 3046                         double storey and one single storey)
+
+
+North West         Planning               9/06/2010     SP/2010/89     4 Nerissa Grove OAK PARK VIC     Subdivision of the land into two lots
+                   Permit                                              3046
+
+
+North West         Planning              24/05/2010     MPS/2010/107   26 Eucra Street HADFIELD VIC     Development of the land for two dwellings (one new
+                   Permit                                              3046                             dwelling to the rear of existing dwelling)
+
+
+North West         Amended               21/06/2010     SP/2010/28/A   7 Winifred Street OAK PARK VIC   Subdivision of the land into four lots
+                   Planning                                            3046
+                   Permit
+
+
+North West         Planning               8/06/2010     SP/2010/83     627 Pascoe Vale Road OAK PARK    Subdivision of the land into four lots
+                   Permit                                              VIC 3046
+
+
+North West         Notice of             21/06/2010     MPS/2009/800   20B Park Street PASCOE VALE      Development of land for three dwellings consisting of two
+                   Decision                                            VIC 3044                         double and one single storey dwellings
+
+
+North West         Lapsed                 9/06/2010     MPS/2009/828   19 Liston Road GLENROY VIC       Development of land for four double storey dwellings
+                                                                       3046
+
+
+South              VCAT                  26/05/2010     MPS/2009/401   6 Frith Street BRUNSWICK VIC     Use and development of the land for an art and craft centre
+                   Permit                                              3056                             (design and assembly of architectural objects), caretakers
+                                                                                                        residence and waiver of loading bay.
+
+South              Notice of             21/06/2010     MPS/2009/632   62 Evans Street BRUNSWICK VIC    Construction of a double storey dwelling addition
+                   Decision                                            3056
+
+
+South              Planning               7/06/2010     MPS/2009/792   19 Church Street BRUNSWICK VIC   Use of the land as an arts and craft centre and dwelling and
                    Permit                                              3056                             associated buildings and works and partial demolition to an
                                                                                                         existing warehouse and a reduction in the standard rate of
                                                                                                         car parking
 
-South              VCAT                   18/05/2010   MPS/2008/623    15 Pearson Street BRUNSWICK      Construction of two dwellings at the rear of the existing
-                   Refused                                             WEST VIC 3055                    dwellings (with access via Smith Street)
-
-
-South              Withdrawn              17/05/2010   SP/2010/87      306 Victoria Street BRUNSWICK    Subdivision of the land into two lots
-                                                                       VIC 3056
-
-
-South              Notice of              11/05/2010   MPS/2009/620    44 Glenmorgan Street BRUNSWICK   Partial demolition, alterations and additions to existing
-                   Decision                                            EAST VIC 3057                    single dwelling
-
-
-South              Planning                3/06/2010   MPS/2009/824    148-150 Nicholson                Buildings and works comprising the construction of a single
-                   Permit                                              Street BRUNSWICK EAST VIC        storey extension to the existing building to be used for the
-                                                                       3057                             purpose of a food and drink premises in conjunction with
-                                                                                                        the existing place of assembly (reception centre)
-
-South              Amended                13/05/2010   MPS/2009/26/A   170 Union Street BRUNSWICK VIC   Development of land for four double storey dwellings
-                   Planning                                            3056
-                   Permit
-
-
-South              Planning               23/05/2010   SP/2010/29      61-63 David Street BRUNSWICK     Subdivision of the land into eleven lots
-                   Permit                                              VIC 3056
-
-
-South              Notice of               7/06/2010   MPS/2010/33     130 Barkly Street BRUNSWICK      Use of the land as an industry (micro brewery) and a
-                   Decision                                            VIC 3056                         reduction in the standard carparking requirements
-
-
-South              Lapsed                 27/05/2010   MPS/2010/129    6 Allan Street BRUNSWICK VIC     Demoliton and construction of alterations and a single
-                                                                       3056                             sotrey extension to the rear of the existing dwelling
-
-
-South              Planning               17/05/2010   MPS/2010/111    10 Hutchinson Street BRUNSWICK   Single storey extension to an existing dwelling
-                   Permit                                              EAST VIC 3057
-
-
-South              Planning                7/06/2010   SP/2010/21      597-603 Sydney                   Subdivision of the land into 191 lots in total - Stage 1 into
-                   Permit                                              Road BRUNSWICK VIC 3056          86 lots
-
-
-South              Notice of              12/05/2010   MPS/2009/851    58 Clarence Street BRUNSWICK     Use and development of land for residential building and
-                   Decision                                            EAST VIC 3057                    reduction in the carparking requirements
-
-
-
-
-Wednesday, 9 June 2010                                                                                                                                    Page 8 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Ward               Decision           Decision Date Application Number Address                            Description
-
-South              No Permit              17/05/2010   MPS/2007/252/A   1 Hall Street BRUNSWICK VIC        Alterations and Additions to existing dwelling incorporating
-                   Required                                             3056                              partial demolition
-
-
-South              Planning               25/05/2010   SP/2010/79       170 Union Street BRUNSWICK VIC    Subdivision of the land into four lots
-                   Permit                                               3056
-
-
-South              Amended                27/05/2010   MPS/2004/13/B    182 Dawson Street BRUNSWICK       Part demolition and alterations and additions including a
-                   Planning                                             WEST VIC 3055                     ground and first floor extension
-                   Permit
-
-
-South              Amended                28/05/2010   MPS/2008/508/A   53 Kingfisher Gardens BRUNSWICK   Construction of a two storey dwelling requiring the removal
-                   Planning                                             EAST VIC 3057                     of a tree
-                   Permit
-
-
-South              Planning               31/05/2010   MPS/2009/829     284-286 Albert Street BRUNSWICK   Use and development of land for a 14-storey building
-                   Permit                                               VIC 3056                          comprising residential dwellings, shops and reduction in car
-                                                                                                          parking
-
-South              Amended                21/05/2010   MPS/2008/289/B   21-25 Hope Street BRUNSWICK       Use and development of land for (Building B) four level
-                   Planning                                             VIC 3056                          building consisting of 18 dwellings and a reduction of the
-                   Permit                                                                                 standard carparking requirement
-
-
-South              Planning               18/05/2010   MPS/2010/102     16 Cliff Street BRUNSWICK VIC     Partial demoltion, alterations and additions to construct a
-                   Permit                                               3056                              single storey extension to rear of existing dwelling
-
-
-South              VCAT                   14/05/2010   MPS/2009/282     350 Barkly Street BRUNSWICK       Demolition and the construction of a two storey dwelling to
-                   Permit                                               VIC 3056                          the rear of an existing dwelling, in accordance with the
-                                                                                                          endorsed plans
-
-South              Planning               27/05/2010   SP/2010/25       74 Cassels Road BRUNSWICK         Subdivision of the land into two lots
-                   Permit                                               VIC 3056
-
-
-South              Notice of              12/05/2010   MPS/2009/624     462 Moreland Road BRUNSWICK       To construct a double storey dwelling to the rear of an
-                   Decision                                             WEST VIC 3055                     existing dwelling
-
-
-South              Planning                1/06/2010   MPS/2010/58      37 Cook Street BRUNSWICK          Development of the land for three double storey dwellings
-                   Permit                                               WEST VIC 3055
-
-
-South              VCAT                   26/05/2010   MPS/2009/401     6 Frith Street BRUNSWICK VIC      Use and development of the land for an art and craft centre
-                   Permit                                               3056                              (design and assembly of architectural objects), caretakers
-                                                                                                          residence and waiver of loading bay.
-
-
-
-
-Wednesday, 9 June 2010                                                                                                                                     Page 9 of 11
-Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
-
-Ward               Decision           Decision Date Application Number Address                          Description
-
-South              Refused                13/05/2010   MPS/2009/424     48-58 Albert Street BRUNSWICK   Use and development of land for a seven storey building
-                                                                        EAST VIC 3057                   comprising multiple dwellings, offices and a food and drink
-                                                                                                        premises, a reduction of the car parking and bicycle
-                                                                                                        facilities requirement, and waiver of loading bay
-                                                                                                        requirements together with associated works
-
-South              Notice of              13/05/2010   MPS/2009/848     291 Lygon Street BRUNSWICK      Development of land to construct a three level building
-                   Decision                                             EAST VIC 3057                   consisting of a ground floor shop and two dwellings
-
-
-South              Planning               18/05/2010   MPS/2009/609     81 Glenlyon Road BRUNSWICK      Construction of a single storey dwelling extension
-                   Permit                                               VIC 3056
-
-
-South              Notice of              25/05/2010   MPS/2009/830     81 Union Street BRUNSWICK VIC   Use and development of land for a residential building and
-                   Decision                                             3056                            reduction in the standard carparking requirement
-
-
-South              Amended                20/05/2010   MPS/2007/590/A   57 Shamrock Street BRUNSWICK    Development of the land for three double storey dwellings
-                   Planning                                             WEST VIC 3055
-                   Permit
-
-
-South              Planning               18/05/2010   MPS/2009/701     30 Belfast Road BRUNSWICK VIC   Alterations and additions to the existing dwelling inlcudng a
-                   Permit                                               3056                            double storey addition
-
-
-South              Planning               26/05/2010   MPS/2009/582     793-795 Sydney                  Use and development of the land for a supermarket
-                   Permit                                               Road BRUNSWICK VIC 3056         including the erection of business identification signage and
-                                                                                                        a waiver in the standard car parking requirement
-
-South              Notice of               3/06/2010   MPS/2009/553     260 Brunswick Road BRUNSWICK    The development of land to construct a three storey
-                   Decision                                             VIC 3056                        building comprising of six dwellings, alateration to a Road
-                                                                                                        Zone Category 1 and reduction in car parking requirements
-
-South              Planning               26/05/2010   MPS/2009/664     70-74 Fallon Street BRUNSWICK   Change of use for purpose of industry (panel beaters) and
-                   Permit                                               VIC 3056                        office with reduction of standard car parking requirements
-
-
-South              VCAT Amend             27/05/2010   MPS/2007/343     597-603 Sydney                  Partial demolition of existing buildings, use and
-                   Permit                                               Road BRUNSWICK VIC 3056         development of the land for a mixed use building consisting
+South              VCAT Amend            27/05/2010     MPS/2007/343   597-603 Sydney                   Partial demolition of existing buildings, use and
+                   Permit                                              Road BRUNSWICK VIC 3056          development of the land for a mixed use building consisting
                                                                                                         of retail(shops), office, food and drink premises (restaurant
                                                                                                         and café), sale and consumption of liquor, 105
                                                                                                         dwellings/service apartments (Residential Hotel) and a
@@ -574,44 +467,197 @@ South              VCAT Amend             27/05/2010   MPS/2007/343     597-603 
                                                                                                         bay requirements, in accordance with endorsed plans.
 
 
-
-
-Wednesday, 9 June 2010                                                                                                                                 Page 10 of 11
+Wednesday, 23 June 2010                                                                                                                                 Page 8 of 12
 Planning Decisions
-where decision date between 8/05/2010 and 8/06/2010
+where decision date between 23/05/2010 and 23/06/2010
 
-Ward               Decision           Decision Date Application Number Address                            Description
+Ward               Decision           Decision Date Application Number Address                             Description
 
-South              VCAT                   11/05/2010   MPS/2009/9       148 Brunswick Road BRUNSWICK      Construction of a four storey building comprising of eleven
-                   Refused                                              VIC 3056                          (11) dwellings, associated reduction of the standard car
-                                                                                                          parking rate and alteration of access to a road zone
-                                                                                                          category 1
-
-South              Amended                 2/06/2010   MPS/1998/464/A   45-49 Weston Street BRUNSWICK     Use of the site for a 24 hour Gymnasium (Place of
-                   NOD                                                  VIC 3056                          Assembly)
+South              Planning              11/06/2010     MPS/2009/620     44 Glenmorgan Street BRUNSWICK    Partial demolition, alterations and additions to existing
+                   Permit                                                EAST VIC 3057                     single dwelling
 
 
-South              Refused                20/05/2010   MPS/2009/769     14 Goodman Street BRUNSWICK       Development of land for three storey building (and roof top
-                                                                        VIC 3056                          terrace) comprising four dwellings
+South              VCAT                  21/06/2010     MPS/2008/834     93-97 Lygon Street BRUNSWICK      Use & development of the land for a four storey building
+                   Permit                                                EAST VIC 3057                     containing 2 shops & 11 dwellings, a reduction in the
+                                                                                                           standard carparking requirement & waive the standard
+                                                                                                           loading bay requirement
+
+South              Planning              26/05/2010     MPS/2009/582     793-795 Sydney                    Use and development of the land for a supermarket
+                   Permit                                                Road BRUNSWICK VIC 3056           including the erection of business identification signage and
+                                                                                                           a waiver in the standard car parking requirement
+
+South              Planning              17/06/2010     SP/2010/91       245 Albion Street BRUNSWICK       Subdivision of the land into eight lots - Stage 2
+                   Permit                                                VIC 3056
 
 
-South              Planning               14/05/2010   MPS/2009/617     491 Sydney Road BRUNSWICK         The development of land that includes an extension to
-                   Permit                                               VIC 3056                          existing church, construction of a three storey apartment
-                                                                                                          building, conversion of an existing two storey building into a
-                                                                                                          restaurant and office, part demolition, display of business
-                                                                                                          signage, reduction in car parking, waiver of loading bay
-                                                                                                          requirements and relocation of easement
+South              Planning              22/06/2010     MPS/2009/703     3 Allan Street BRUNSWICK VIC      Partial demolition of the dwelling and alteration and
+                   Permit                                                3056                              construction of a second storey addition to the existing
+                                                                                                           dwelling including construction of a carport
 
-South              Amended                18/05/2010   MPS/2008/391/B   168 Stewart Street BRUNSWICK      Development of the land for two double storey dwellings
-                   Planning                                             EAST VIC 3057
+South              Planning              18/06/2010     MPS/2010/436     5-6 Parkview Avenue BRUNSWICK     Construction of a store
+                   Permit                                                EAST VIC 3057
+
+
+South              Amended                2/06/2010     MPS/1998/464/A   45-49 Weston Street BRUNSWICK     Use of the site for a 24 hour Gymnasium (Place of
+                   NOD                                                   VIC 3056                          Assembly)
+
+
+South              Planning               7/06/2010     SP/2010/21       597-603 Sydney                    Subdivision of the land into 191 lots in total - Stage 1 into
+                   Permit                                                Road BRUNSWICK VIC 3056           86 lots
+
+
+South              Planning              27/05/2010     MPS/2010/368     22 Macfarland Street BRUNSWICK    Partial demolition and construction of a new verandah,
+                   Permit                                                VIC 3056                          window and external alteration to the dwelling
+
+
+South              Amended               17/06/2010     SP/2008/69/A     399-401 Albion Street BRUNSWICK   Subdivision of the land into twenty lots
+                   Planning                                              WEST VIC 3055
                    Permit
 
 
-South              Planning               12/05/2010   MPS/2009/697     1/38 Collier Crescent BRUNSWICK   Buildings and works to existing residential building including
-                   Permit                                               VIC 3056                          the construction of two additional dwellings
+South              Planning              27/05/2010     SP/2010/25       74 Cassels Road BRUNSWICK         Subdivision of the land into two lots
+                   Permit                                                VIC 3056
+
+
+South              Notice of              3/06/2010     MPS/2009/553     260 Brunswick Road BRUNSWICK      The development of land to construct a three storey
+                   Decision                                              VIC 3056                          building comprising of six dwellings, alateration to a Road
+                                                                                                           Zone Category 1 and reduction in car parking requirements
 
 
 
 
-Wednesday, 9 June 2010                                                                                                                                    Page 11 of 11
+Wednesday, 23 June 2010                                                                                                                                        Page 9 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                             Description
+
+South              Planning              26/05/2010     MPS/2009/664     70-74 Fallon Street BRUNSWICK     Change of use for purpose of industry (panel beaters) and
+                   Permit                                                VIC 3056                          office with reduction of standard car parking requirements
+
+
+South              Amended               27/05/2010     MPS/2004/13/B    182 Dawson Street BRUNSWICK       Part demolition and alterations and additions including a
+                   Planning                                              WEST VIC 3055                     ground and first floor extension
+                   Permit
+
+
+South              Planning              22/06/2010     MPS/2010/50      499-501 Victoria                  Use and development of the land for a shop and six
+                   Permit                                                Street BRUNSWICK WEST VIC         dwellings in a three storey building
+                                                                         3055
+
+South              Amended               28/05/2010     MPS/2008/508/A   53 Kingfisher Gardens BRUNSWICK   Construction of a two storey dwelling requiring the removal
+                   Planning                                              EAST VIC 3057                     of a tree
+                   Permit
+
+
+South              Planning              11/06/2010     SP/2010/84       25 Evans Street BRUNSWICK VIC     Subdivision of the land into two lots
+                   Permit                                                3056
+
+
+South              Planning              11/06/2010     MPS/2009/848     291 Lygon Street BRUNSWICK        Development of land to construct a three level building
+                   Permit                                                EAST VIC 3057                     consisting of a ground floor shop and two dwellings
+
+
+South              Planning              11/06/2010     MPS/2009/851     58 Clarence Street BRUNSWICK      Use and development of land for residential building and
+                   Permit                                                EAST VIC 3057                     reduction in the carparking requirements
+
+
+South              Planning               1/06/2010     MPS/2010/58      37 Cook Street BRUNSWICK          Development of the land for three double storey dwellings
+                   Permit                                                WEST VIC 3055
+
+
+South              Planning              16/06/2010     SP/2010/33       330-340 Lygon Street BRUNSWICK    Subdivision of the land into 111 lots
+                   Permit                                                EAST VIC 3057
+
+
+South              Planning               9/06/2010     MPS/2009/710     12 Bennie Street BRUNSWICK VIC    Development of the land for a second storey addition and
+                   Permit                                                3056                              alterations to the existing single storey dwelling
+
+
+South              Withdrawn             11/06/2010     MPS/2009/583     35 Ryan Street BRUNSWICK EAST     Construction of a single storey dwelling extension
+                                                                         VIC 3057
+
+
+South              Planning              22/06/2010     MPS/2009/830     81 Union Street BRUNSWICK VIC     Use and development of land for a residential building and
+                   Permit                                                3056                              reduction in the standard carparking requirement
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                   Page 10 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                            Description
+
+South              Amended               15/06/2010     MPS/1994/88/A   1/230 Albert Street BRUNSWICK     Construction of 57 two-storey and three-storey dwellings
+                   Planning                                             VIC 3056
+                   Permit
+
+
+South              Planning              11/06/2010     MPS/2010/434    6 Allan Street BRUNSWICK VIC      Alterations and additions including partial demolition and
+                   Permit                                               3056                              the construction of a pergola
+
+
+South              Planning              23/05/2010     SP/2010/29      61-63 David Street BRUNSWICK      Subdivision of the land into eleven lots
+                   Permit                                               VIC 3056
+
+
+South              Lapsed                27/05/2010     MPS/2010/129    6 Allan Street BRUNSWICK VIC      Demoliton and construction of alterations and a single
+                                                                        3056                              sotrey extension to the rear of the existing dwelling
+
+
+South              Planning              11/06/2010     MPS/2009/624    462 Moreland Road BRUNSWICK       To construct a double storey dwelling to the rear of an
+                   Permit                                               WEST VIC 3055                     existing dwelling
+
+
+South              Planning               9/06/2010     MPS/2010/131    365 Sydney Road BRUNSWICK         Display of business identification signage and a reduction in
+                   Permit                                               VIC 3056                          the car parking and bicycle facilities requirement in
+                                                                                                          association with a restaurant
+
+South              Notice of              7/06/2010     MPS/2010/33     130 Barkly Street BRUNSWICK       Use of the land as an industry (micro brewery) and a
+                   Decision                                             VIC 3056                          reduction in the standard carparking requirements
+
+
+South              Planning               9/06/2010     MPS/2009/714    528 Albion Street BRUNSWICK       Part demolishion and rebuild of a single storey dwelling,
+                   Permit                                               WEST VIC 3055                     including rear extension and front fence.
+
+
+South              Planning              25/05/2010     SP/2010/79      170 Union Street BRUNSWICK VIC    Subdivision of the land into four lots
+                   Permit                                               3056
+
+
+South              Planning              31/05/2010     MPS/2009/829    284-286 Albert Street BRUNSWICK   Use and development of land for a 14-storey building
+                   Permit                                               VIC 3056                          comprising residential dwellings, shops and reduction in car
+                                                                                                          parking
+
+South              Planning              15/06/2010     SP/2010/86      33 Appleby Crescent BRUNSWICK     Subdivision of the land into two lots - existing buildings
+                   Permit                                               WEST VIC 3055
+
+
+South              Planning              21/06/2010     SP/2010/95      64 Everett Street BRUNSWICK       Subdivision of the land into two lots
+                   Permit                                               WEST VIC 3055
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                    Page 11 of 12
+Planning Decisions
+where decision date between 23/05/2010 and 23/06/2010
+
+Ward               Decision           Decision Date Application Number Address                               Description
+
+South              Planning               3/06/2010     MPS/2009/824     148-150 Nicholson                   Buildings and works comprising the construction of a single
+                   Permit                                                Street BRUNSWICK EAST VIC           storey extension to the existing building to be used for the
+                                                                         3057                                purpose of a food and drink premises in conjunction with
+                                                                                                             the existing place of assembly (reception centre)
+
+South              Amended                2/06/2010     MPS/2007/205/A   10 Little Miller Street BRUNSWICK   The use and development of land for the purpose of a
+                   Planning                                              EAST VIC 3057                       warehouse and reduction to the standard car parking rate
+                   Permit
+
+
+
+
+Wednesday, 23 June 2010                                                                                                                                    Page 12 of 12
 
