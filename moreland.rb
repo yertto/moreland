@@ -24,15 +24,15 @@ class Address
     end
   end
 
-  def valid?
+  def my_valid?
     warn("ERROR in #{self.class.name.inspect}: #{inspect}") unless (number and street and suburb and state and postcode) # and ward)   XXX - should check ward
   end
 end
 
 
 class Application
-  def valid?
-    address.nil? ? warn("ERROR in #{self.class.name.inspect}, no associated address: #{inspect}") : address.valid?
+  def my_valid?
+    address.nil? ? warn("ERROR in #{self.class.name.inspect}, no associated address: #{inspect}") : address.my_valid?
   end
 end
 
@@ -71,8 +71,8 @@ class ApplicationEvent
     end
   end
 
-  def valid?
-    application.nil? ? warn("ERROR in #{self.class.name.inspect}, no associated application: #{inspect}") : application.valid?
+  def my_valid?
+    application.nil? ? warn("ERROR in #{self.class.name.inspect}, no associated application: #{inspect}") : application.my_valid?
   end
 end
 
@@ -91,8 +91,8 @@ class Page
   # => [2, 2, 2]
   # [1,2,2,2,3]-[1,2,3]
   # => []
-  def valid?
-    application_events.each { |ev| ev.valid? }
+  def my_valid?
+    application_events.each { |ev| ev.my_valid? }
 
     ap_nos = application_events.collect { |ap| ap.application_number }
                                                   # XXX - use a case?
@@ -172,7 +172,7 @@ class Report
     ward = wards.count == 0 ? Ward.first_or_create(:name => cols[:ward]) : wards.last
     address = page.report.council.addresses.first_or_new(cols[:address])
     address.ward = ward
-    cols[:description] = cols[:description][0..49]  # trying to get heroku db:push to work
+    #cols[:description] = cols[:description][0..49]  # trying to get heroku db:push to work
     app = Application.first_or_create(  # XXX
       { :number => cols[:number] },
       Application.properties.inject({:address => address}) { |h, prop|
@@ -260,7 +260,7 @@ class Report
 
         page = report.pages.first_or_new(:number => page_number)  # XXX Page.first_or_create
 
-        # *rough* way of getting number of application events per page (later used in valid? check)
+        # *rough* way of getting number of application events per page (later used in my_valid? check)
         page._ap_nos = page_.scan(ApplicationNumber.re2).collect { |m| m[0] }
         report.application_event_count += page.application_event_count = page._ap_nos.size
 
@@ -281,15 +281,16 @@ class Report
     return report
   end
 
-  def valid?
+  def my_valid?
     LOGGER.info "  validating report..."
-    pages.each { |page| page.valid? }
+    pages.each { |page| page.my_valid? }
     warn "ERROR in #{self.class.name.inspect} report, number of pages: #{pages.count} != #{page_count}" if pages.count != page_count
     warn "ERROR in #{self.class.name.inspect} report, number of application events: #{application_events2.size} != #{application_event_count}" if application_events2.size != application_event_count
   end
 
   before :save do
-    valid?
+    p valid?
+    my_valid?
     LOGGER.info "  saving #{self.class.name} report (finally writing to the database, which takes *some* time) ..."
   end
 end
@@ -340,11 +341,11 @@ end
 
 
 if __FILE__ == $0
-  report =            Received.parse('test_data/received.txt'             ); puts report ; report.save
-  report =          Advertised.parse('test_data/advertised.txt'           ); puts report ; report.save
-  report =             Updated.parse('test_data/updated.txt'              ); puts report ; report.save
-  report = UpdatedSubdivisions.parse('test_data/updated_subdivisions.txt' ); puts report ; report.save
-  report =             Decided.parse('test_data/decided.txt'              ); puts report ; report.save
-  report = DecidedSubdivisions.parse('test_data/decided_subdivisions.txt' ); puts report ; report.save
+# report =            Received.parse('test_data/received.txt'             ); puts report ; report.save
+  report =          Advertised.parse('test_data/advertised.txt'           ); puts report ; p report.valid? ; p report.save
+# report =             Updated.parse('test_data/updated.txt'              ); puts report ; report.save
+# report = UpdatedSubdivisions.parse('test_data/updated_subdivisions.txt' ); puts report ; report.save
+# report =             Decided.parse('test_data/decided.txt'              ); puts report ; report.save
+# report = DecidedSubdivisions.parse('test_data/decided_subdivisions.txt' ); puts report ; report.save
 end
 

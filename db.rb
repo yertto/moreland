@@ -1,6 +1,7 @@
 require 'dm-core'
 require 'dm-types'
 require 'dm-migrations'
+require 'dm-validations'
 
 DataMapper::Logger.new(STDOUT, :debug) if ENV['DEBUG']
 DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3:///#{Dir.pwd}/devel.db")
@@ -8,8 +9,8 @@ DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3:///#{Dir.pwd}/devel.d
 
 class ApplicationNumber < DataMapper::Type  # NB. causes an erroneous deprecation warning in dm v1.0.0
   primitive       String
-  length          16   # XXX - sqlite is ignoring this :(
-  auto_validation true # XXX - sqlite is ignoring this :(
+  #length          8    # XXX - sqlite is ignoring this :(
+  #auto_validation true # XXX - sqlite is ignoring this :(
 
   def self.re
     @re ||= Regexp.compile('^((MPS|SP|SC|MIN)/\d{4}/\d+(?:/([A-K]))?)$')
@@ -101,8 +102,8 @@ end
 class Application
   include DataMapper::Resource 
 
-  property :number      , ApplicationNumber , :key => true
-  property :description , Text              , :length => 50
+  property :number      , ApplicationNumber , :key => true , :length => (4..16)
+  property :description , Text              ,                :length => (8..1024)
 
   belongs_to :address
   has n    , :application_events

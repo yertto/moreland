@@ -1,6 +1,8 @@
 .backup
+.bundle
 .cache
 .db
+.*.swp
 reports
 BUGS.txt
 TODO.txt
