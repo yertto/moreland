@@ -1,7 +1,7 @@
 require 'dm-core'
 require 'dm-types'
 require 'dm-migrations'
-require 'dm-validations'
+require 'dm-validations'  # XXX - not working for me :(
 
 DataMapper::Logger.new(STDOUT, :debug) if ENV['DEBUG']
 DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3:///#{Dir.pwd}/devel.db")
