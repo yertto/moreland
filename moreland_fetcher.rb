@@ -40,16 +40,36 @@ if __FILE__ == $0
   # XXX only saves the ones that have a current_ward XXX
   files.each { |f|
 		report = case f
+    when /planning-permit-received.txt/
+      Received
     when /003(\s|%20)qryplanpermitappnrecdbyward.txt/
       Received
     when /008(\s|%20)planningpermitsinprogress.txt/
       Updated
+    when /planning-permit-progress.txt/
+      Updated
     when /014(\s|%20)subdivision(\s|%20)certifications(\s|%20)in(\s|%20)progress.txt/
       UpdatedSubdivisions
+    when /planning-permit-subdivision-certification-progress.txt/
+      UpdatedSubdivisions
+    when /planning-permit-advertised.txt/
+      Advertised
     when /002(\s|%20)rptplanpermitappnadvbyward.txt/
       Advertised
+    when /002 permitappnadvbyward.txt/
+      Advertised
+    when /planning-permit-determination.txt/
+      Decided2
+    when /08....\/006(\s|%20)planning(\s|%20)decisions.txt/
+      Decided2
+    when /090...\/006(\s|%20)planning(\s|%20)decisions.txt/
+      Decided2
+    when /09100(2|5)\/006(\s|%20)planning(\s|%20)decisions.txt/
+      Decided2
     when /006(\s|%20)planning(\s|%20)decisions.txt/
       Decided
+    when /planning-permit-subdivision-certification-determination.txt/
+      DecidedSubdivisions
     when /013(\s|%20)subdivision(\s|%20)certification(\s|%20)decisions.txt/
       DecidedSubdivisions
     else
@@ -57,7 +77,7 @@ if __FILE__ == $0
     end
     if report
       puts r = report.parse(f)
-      r.save
+      #r.save
     end
   }
 end

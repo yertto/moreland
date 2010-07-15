@@ -18,6 +18,14 @@ create_get '/wards/:name'          , Ward
 create_get '/reports'              , Report
 create_get '/reports/:id'          , Report
 
+get '/reporttypes' do
+  haml :reporttypes , :locals => { :reporttypes => Report.subclasses }
+end
+
+get '/reporttypes/:type' do
+  haml :reports_type , :locals => { :type => eval(params[:type]) }
+end
+
 get '/reports/:report_id/pages/:number' do
   haml :page , :locals => { :page => Page.first(
    :report => Report.get(params[:report_id]),
@@ -158,6 +166,10 @@ __END__
 %p
   %b Description:
   = application.description
+- if application.applicant
+  %p
+    %b Applicant:
+    = application.applicant
 %div
   %b Events:
   = haml :_application_event_table , :locals => { :application_events => application.application_events }
@@ -204,7 +216,7 @@ __END__
     %th Date
     %th= haml :_reports_all
     %th Pages
-    %th Application Events
+    %th Rows
   - reports.each do |report|
     %tr
       %td= report.date
@@ -317,9 +329,27 @@ __END__
   %li= haml :_page_a, :locals => { :page => page }
 
 
+@@ reports_type
+%h3= "#{type} reports"
+%div= haml :_report_table, :locals => { :reports => type.all }
+
+
 @@ reports
 %h3 All reports
 %div= haml :_report_table, :locals => { :reports => reports }
+
+
+@@ reporttypes
+%h3 All reports types
+%table
+  %tr
+    %th Type
+    %th Count
+  - reporttypes.each do |r|
+    %tr
+      %td
+        %a(href="/reporttypes/#{r}")= r
+      %td= r.count
 
 
 @@ _suburb_a

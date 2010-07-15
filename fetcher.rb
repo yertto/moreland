@@ -5,10 +5,10 @@ require 'pathname'
 module Fetcher
 
   CACHE_DIR = Pathname.new(".cache/#{Date.today.strftime('%y%m%d')}")
-  CACHE_DIR.mkdir unless CACHE_DIR.exist?
 
-  def _get_cache_file_and_data(url)
-    cache_file = CACHE_DIR.join(url.split('/')[-1])
+  def _get_cache_file_and_data(url, cache_dir)
+    cache_dir.mkdir unless cache_dir.exist?
+    cache_file = cache_dir.join(url.split('/')[-1])
     data = if cache_file.exist?
       STDERR.puts "Reading data from #{cache_file} ..."
       cache_file.read
@@ -23,11 +23,11 @@ module Fetcher
     [cache_file, data]
   end
 
-  def get_cache_file(url)
-    _get_cache_file_and_data(url)[0]
+  def get_cache_file(url, cache_dir=CACHE_DIR)
+    _get_cache_file_and_data(url, cache_dir)[0]
   end
 
-  def get_data(url)
-    _get_cache_file_and_data(url)[1]
+  def get_data(url, cache_dir=CACHE_DIR)
+    _get_cache_file_and_data(url, cache_dir)[1]
   end
 end

@@ -1,9 +1,9 @@
 .backup
 .bundle
-.cache
+.cache*
 .db
 .*.swp
 reports
-BUGS.txt
 TODO.txt
 *.dat
+cron.sh

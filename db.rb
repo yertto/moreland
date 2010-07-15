@@ -9,11 +9,11 @@ DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3:///#{Dir.pwd}/devel.d
 
 class ApplicationNumber < DataMapper::Type  # NB. causes an erroneous deprecation warning in dm v1.0.0
   primitive       String
-  length          8    # XXX - sqlite is ignoring this :(
+  length          16   # XXX - sqlite is ignoring this :(
   auto_validation true # XXX - sqlite is ignoring this :(
 
   def self.re
-    @re ||= Regexp.compile('^((MPS|SP|SC|MIN)/\d{4}/\d+(?:/([A-K]))?)$')
+    @re ||= Regexp.compile('^((AM|MIN|MPS|SP|SC)/\d{4}/\d+(?:/([A-K]))?)$')
   end
 
   def self.dump(value, property)
@@ -41,11 +41,12 @@ class Address
   include DataMapper::Resource 
 
   property :id       , Serial
-  property :number   , String
-  property :street   , String
-  property :suburb   , String
-  property :state    , String
-  property :postcode , Integer
+  property :name     , String  , :required => false
+  property :number   , String  , :required => false
+  property :street   , String  , :required => true
+  property :suburb   , String  , :required => true
+  property :state    , String  , :required => true
+  property :postcode , Integer , :required => true
 
   belongs_to :council
   belongs_to :ward
@@ -103,7 +104,8 @@ class Application
   include DataMapper::Resource 
 
   property :number      , ApplicationNumber , :key => true , :length => (4..16)
-  property :description , Text              ,                :length => (8..1024)
+  property :description , Text              ,                :length => (0..1024)
+  property :applicant   , Text              ,                :length => (0..256)
 
   belongs_to :address
   has n    , :application_events
@@ -168,7 +170,23 @@ class Report
 
   def to_s
     #"<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events.count} application events)>" #+ "\n #{pages.join("\n  ")}"
-    "<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events2.size} application events)>" #+ "\n #{pages.join("\n  ")}"
+    "<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events.count}(#{application_events2.size}) application events)>" #+ "\n #{pages.join("\n  ")}"
+  end
+
+  def self.subclasses(direct = false)
+    classes = []
+    if direct
+      ObjectSpace.each_object(Class) do |c|
+        next unless c.superclass == self
+        classes << c
+      end
+    else
+      ObjectSpace.each_object(Class) do |c|
+        next unless c.ancestors.include?(self) and (c != self)
+        classes << c
+      end
+    end
+    classes
   end
 end
 

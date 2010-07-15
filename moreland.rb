@@ -3,6 +3,7 @@ require 'pathname'
 
 require 'grid'
 require 'fixes'  # really ugly hard-coded fixes
+require 'fixes_description'  # really ugly hard-coded fixes
 require 'db'
 
 require 'logger'
@@ -11,13 +12,13 @@ LOGGER = Logger.new(STDOUT)
 
 class Address
   def self.re
-    @re ||= Regexp.compile('([-/0-9]+(?:[a-kA-K])?) (.*?) ([ A-Z]+?) (VIC) (\d{4})')
+    @re ||= Regexp.compile('^(Rear |ST MATTHEW\'S |SHOP |\'THE GATEHOUSE\' |\'THE LAUNDRY\' |PENTRIDGE (?:PIAZZA )?|)((?:Lot [0-9A-J]*)|[-/0-9A-K]+) (.*?) ([ A-Z]+?) (VIC) (\d{4})$')
   end
 
   def self.parse(buf)
     buf = fix_address(buf)
-    if m = re.match(buf)
-      Hash[[:number, :street, :suburb, :state, :postcode].zip(m.captures)]
+    if m = re.match(buf.strip)
+      Hash[[:name, :number, :street, :suburb, :state, :postcode].zip(m.captures)]
     else
       puts $line_cache
       raise LOGGER.error "Couldn't parse street: #{buf.inspect}"
@@ -172,7 +173,7 @@ class Report
     ward = wards.count == 0 ? Ward.first_or_create(:name => cols[:ward]) : wards.last
     address = page.report.council.addresses.first_or_new(cols[:address])
     address.ward = ward
-    #cols[:description] = cols[:description][0..49]  # trying to get heroku db:push to work
+    cols[:description] = fix_description(cols[:description])
     app = Application.first_or_create(  # XXX
       { :number => cols[:number] },
       Application.properties.inject({:address => address}) { |h, prop|
@@ -278,6 +279,7 @@ class Report
       end
     }.compact
 
+    report.save
     return report
   end
 
@@ -290,9 +292,10 @@ class Report
 
   before :save do
     p valid?
-    my_valid?
-    LOGGER.info "  saving #{self.class.name} report (finally writing to the database, which takes *some* time) ..."
+    p my_valid?
+    LOGGER.info "  saving #{self.class.name} report (?finally? writing to the database, which takes *some* time) ..."
   end
+
 end
 
 
@@ -331,6 +334,12 @@ class Decided #< Report
     @header_re ||= /(Ward\s*)(Decision\s*)(Decision Date\s*)(Application Number\s*)(Address\s*)Description/
   end
 end
+class Decided2 < Decided
+  def self.report_type; :decided; end
+  def self.header_re
+    @header_re ||= /(Ward\s*)(Decision\s*)(Decision Date\s*)(Application Number\s*)(Address\s*)(Applicant\s*)Description/
+  end
+end
 
 class DecidedSubdivisions #< Report
   def self.report_type; :decided; end
@@ -341,11 +350,11 @@ end
 
 
 if __FILE__ == $0
-# report =            Received.parse('test_data/received.txt'             ); puts report ; report.save
-  report =          Advertised.parse('test_data/advertised.txt'           ); puts report ; p report.valid? ; p report.save
-# report =             Updated.parse('test_data/updated.txt'              ); puts report ; report.save
-# report = UpdatedSubdivisions.parse('test_data/updated_subdivisions.txt' ); puts report ; report.save
-# report =             Decided.parse('test_data/decided.txt'              ); puts report ; report.save
-# report = DecidedSubdivisions.parse('test_data/decided_subdivisions.txt' ); puts report ; report.save
+  report =            Received.parse('test_data/received.txt'             ); puts report ; report.save
+  report =          Advertised.parse('test_data/advertised.txt'           ); puts report ; report.save
+  report =             Updated.parse('test_data/updated.txt'              ); puts report ; report.save
+  report = UpdatedSubdivisions.parse('test_data/updated_subdivisions.txt' ); puts report ; report.save
+  report =             Decided.parse('test_data/decided.txt'              ); puts report ; report.save
+  report = DecidedSubdivisions.parse('test_data/decided_subdivisions.txt' ); puts report ; report.save
 end
 
