@@ -462,7 +462,7 @@ __END__
       , hosted by
       %a{:href=>"http://heroku.com"} heroku
       ,
-      %a{:href=>"http://www.twitter.com/yertto"}
+      %a{:href=>"http://twitter.com/yertto"}
         %img{:src=>"http://twitter-badges.s3.amazonaws.com/t_mini-a.png", :alt=>"Follow yertto on Twitter"}
   :javascript
     var _gaq = _gaq || [];

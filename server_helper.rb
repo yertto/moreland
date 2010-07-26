@@ -2,6 +2,7 @@ require 'haml'
 require 'extlib'
 
 CACHE_MAX_AGE=36000
+MY_VERSION = File.open(File.dirname(__FILE__) + "/VERSION").read.strip
 
 module Sinatra::Templates
   alias :haml_orig :haml
