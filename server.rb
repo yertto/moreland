@@ -117,7 +117,7 @@ get '/planningalerts.xml' do
 end
 
 get '/' do
-  redirect '/reports'
+  redirect '/suburbs'
 end
 
 __END__
