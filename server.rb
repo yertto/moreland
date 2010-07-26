@@ -110,6 +110,7 @@ get '/statuses/:status' do
 end
 
 get '/planningalerts.xml' do
+  headers['Content-Type'] = 'text/xml'
   response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   date = Date.strptime("#{params[:year]}-#{params[:month]}-#{params[:day]}", '%Y-%m-%d') unless params[:year].nil?
   Application.to_planningalerts(date)
