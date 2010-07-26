@@ -19,14 +19,17 @@ create_get '/reports'              , Report
 create_get '/reports/:id'          , Report
 
 get '/reporttypes' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :reporttypes , :locals => { :reporttypes => Report.subclasses }
 end
 
 get '/reporttypes/:type' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :reports_type , :locals => { :type => eval(params[:type]) }
 end
 
 get '/reports/:report_id/pages/:number' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :page , :locals => { :page => Page.first(
    :report => Report.get(params[:report_id]),
    :number => params[:number]
@@ -35,65 +38,79 @@ end
 
 create_get '/applications'         , Application
 get '/applications/*' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :application , :locals => { :application => Application.get(params[:splat]) }
 end
 
 get '/addresses/:suburb/:street/:number' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :address, :locals => { :address => Address.first(params) }
 end
 
 get '/addresses/:suburb/:street' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :street , :locals => { :street => params[:street] , :suburb => params[:suburb]}
 end
 
 get %r{/addresses/(\d{4})} do |postcode|
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :postcode , :locals => { :postcode => postcode }
 end
 
 get '/addresses/:suburb' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :suburb , :locals => { :suburb => params[:suburb] }
 end
 
 get '/postcodes' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   # XXX is there a more efficient way of doing this?
   postcodes = Address.all.collect { |ad| ad.postcode }
   haml :postcodes, :locals => { :postcodes => Hash[postcodes.zip(suburbs)].keys }
 end
 
 get '/suburbs' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   # XXX is there a more efficient way of doing this?
   suburbs = Address.all.collect { |ad| ad.suburb }
   haml :suburbs, :locals => { :suburbs => Hash[suburbs.zip(suburbs)].keys }
 end
 
 get '/streets' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   # XXX is there a more efficient way of doing this?
   streets = Address.all.collect { |ad| [ad.street, ad.suburb] }
   haml :streets, :locals => { :streets => Hash[streets.zip(streets)].keys }
 end
 
 get '/addresses' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :addresses, :locals => { :addresses => Address.all }
 end
 
 get '/eventtypes' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :eventtypes, :locals => { :eventtypes => ApplicationEvent.properties[:event].options[:flags] }
 end
 
 get '/eventtypes/:event' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :eventtype, :locals => { :eventtype => params[:event].to_sym }
 end
 
 get '/statuses' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   statuses = ApplicationEvent.all.collect { |ev| ev.status }
   haml :statuses, :locals => { :statuses => Hash[statuses.zip(statuses)].keys.compact.sort }
 end
 
 get '/statuses/:status' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml :status, :locals => { :status => params[:status].to_sym }
 end
 
 get '/planningalerts.xml' do
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   date = Date.strptime("#{params[:year]}-#{params[:month]}-#{params[:day]}", '%Y-%m-%d') unless params[:year].nil?
   Application.to_planningalerts(date)
 end
