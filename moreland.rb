@@ -169,7 +169,7 @@ class Report
     cols = remap_attributes(grid.attributes(unpacker))
     cols[:date] = date if cols[:date].nil?  # XXX some events don't have a date , so just use the report's date.
     cols[:ward] = wards.last.name if wards.count > 0
-    cols[:ward] = 'unknown' if cols[:ward].nil?
+    #cols[:ward] = 'unknown' if cols[:ward].nil?
     ward = wards.count == 0 ? Ward.first_or_create(:name => cols[:ward]) : wards.last
     address = page.report.council.addresses.first_or_new(cols[:address])
     address.ward = ward

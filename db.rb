@@ -49,7 +49,7 @@ class Address
   property :postcode , Integer , :required => true
 
   belongs_to :council
-  belongs_to :ward
+  belongs_to :ward         , :required => false
   has     n, :applications
 
   default_scope(:default).update(:order => [:state, :suburb, :street, :number]) 

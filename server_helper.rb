@@ -1,6 +1,8 @@
 require 'haml'
 require 'extlib'
 
+CACHE_MAX_AGE=36000
+
 module Sinatra::Templates
   alias :haml_orig :haml
   def haml(template, options={})
@@ -10,6 +12,7 @@ module Sinatra::Templates
 end
 
 def render_objects(sym, resource, key=nil)
+  response["Cache-Control"] = "max-age=#{CACHE_MAX_AGE}, public"
   haml sym, :locals => {
     sym => key.nil? ? resource.all : resource.first(key => params[key])
    }
