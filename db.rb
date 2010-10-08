@@ -49,7 +49,7 @@ class Address
   property :postcode , Integer , :required => true
 
   belongs_to :council
-  belongs_to :ward         , :required => false
+  belongs_to :ward         #, :required => false  # XXX - can associations even be required => false?
   has     n, :applications
 
   default_scope(:default).update(:order => [:state, :suburb, :street, :number]) 
@@ -85,8 +85,7 @@ class ApplicationEvent
   property :application_number , ApplicationNumber
   property :date               , Date              #, :required => false # XXX - nullable?
   property :status             , String
-  property :event              , Enum[
-   :received, :updated, :advertised, :decided]
+  property :event              , Enum[:received, :updated, :advertised, :decided]
 
   belongs_to :application
   belongs_to :page
@@ -170,7 +169,7 @@ class Report
 
   def to_s
     #"<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events.count} application events)>" #+ "\n #{pages.join("\n  ")}"
-    "<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count} pages) (#{application_events.count}(#{application_events2.size}) application events)>" #+ "\n #{pages.join("\n  ")}"
+    "<##{self.class.name} Report: #{title} : #{date} : (#{date_from} - #{date_to}) (#{page_count}(#{pages.count}) pages) (#{application_events.count}(#{application_events2.size}) application events)>" #+ "\n #{pages.join("\n  ")}"
   end
 
   def self.subclasses(direct = false)

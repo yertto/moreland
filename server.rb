@@ -322,22 +322,7 @@ __END__
   %a(href="/reports/#{page.report_id}/pages/#{page.number-1}")= "&lt" unless page.number == 1
   = "Page #{page.number} of #{page.report.page_count}"
   %a(href="/reports/#{page.report_id}/pages/#{page.number+1}")= "&gt;" unless page.number == page.report.page_count
-%table
-  %tr
-    = haml :_number_th
-    = haml :_address_th
-    %th= haml :_wards_all
-    = haml :_event_th
-    %th Status
-    %th Date
-  - page.application_events.each do |ev|
-    %tr
-      %td= haml :_application_a , :locals => { :application => ev.application }
-      = haml :_address_td  , :locals => { :address => ev.application.address }
-      %td= haml :_ward_a   , :locals => { :ward => ev.application.address.ward }
-      %td= haml :_event_a  , :locals => { :event => ev }
-      %td= haml :_status_a , :locals => { :status => ev.status }
-      %td= ev.date
+= haml :_application_event_table , :locals => { :application_events => page.application_events }
 
 
 @@ report

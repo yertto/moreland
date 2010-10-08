@@ -7,4 +7,5 @@ reports
 TODO.txt
 *.dat
 cron.sh
+db
 devel.db
